@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 02:08:54
+# UPDATED: 2021-10-14 02:12:15
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20882
+# DOMAIN: 20967
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 53395
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 74920
+# TOTAL: 75005
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -848,6 +848,7 @@ abackchain.com
 abagifts.com
 abandonedaction.com
 abandonedminesafrica.org
+abaselectric.com
 abatakindergarten.com
 abbanreddy.com
 abbeyblog.me
@@ -873,6 +874,7 @@ abetterinternet.com
 abetting.net
 abiggerpicture.org
 abisorteo.webcindario.com
+ablabels.com
 ablefull.com
 ablegod.000webhostapp.com
 ablerefrigeration.com
@@ -1544,6 +1546,7 @@ ads.directionsmag.com
 ads.discreetad.com
 ads.dkelseymedia.com
 ads.dogusdigital.com
+ads.dokrmob.com
 ads.domain.com
 ads.domainoptions.net
 ads.domeus.com
@@ -1649,6 +1652,7 @@ ads.hulu.com.edgesuite.net
 ads.huolinghu.cn
 ads.i-am-bored.com
 ads.iawsnetwork.com
+ads.ibtracking.com
 ads.idgworldexpo.com
 ads.iknowthatgirl.com
 ads.illuminatednation.com
@@ -1844,6 +1848,7 @@ ads.rttnews.com
 ads.rude.com
 ads.ruralpress.com
 ads.sacbee.com
+ads.satyamonline.com
 ads.scabee.com
 ads.scifi.com
 ads.scott-sports.com
@@ -1988,6 +1993,7 @@ ads.yourfreedvds.com
 ads.zaloapp.com
 ads.zamunda.net
 ads.zeusclicks.com
+ads.ztod.com
 ads01.focalink.com
 ads02.focalink.com
 ads03.focalink.com
@@ -2289,6 +2295,7 @@ adtrack.voicestar.com
 adtrader.com
 adtradradservices.com
 adtriplex.com
+adult.foxcounter.com
 adult18games.com
 adultaccessnow.com
 adultadspy.com
@@ -2550,6 +2557,7 @@ aikanvod.miguvideo.com
 ailanibah.com
 aileenvideos.pro
 aileronx.com
+aimbothack.sharezips.net
 ainfinityperu.com
 aintdoinshit.com
 aio.media
@@ -2646,6 +2654,7 @@ alibiaba.bugs3.com
 aliclonepro.xyz
 aliecspres.com
 alienmade.com
+alienrage.sharezips.net
 alif-ba-ta.com
 alimen.webcindario.com
 alisat.biz
@@ -2824,6 +2833,7 @@ analytics-server.gimbal.com
 analytics-stage.ff.avast.com
 analytics-udg.netdna-ssl.com
 analytics.247sports.com
+analytics.abacast.com
 analytics.adeevo.com
 analytics.adpost.org
 analytics.app.lithium.com
@@ -3357,6 +3367,7 @@ aseanlegaltech.com
 asenytuhlhwrwz.com
 aservitel.com
 asextube.net
+asgarddlc.sharezips.net
 ashaidbit.club
 ashleiquinones.com
 ashleyfurn.inq.com
@@ -3420,6 +3431,7 @@ athena-ads.wikia.com
 athenscollisionctr.com
 ati-host.net
 atianqi.com
+atkins.vo.llnwd.net
 atkitchenware.com
 atl.xmlsearch.miva.com
 atlas-mountain-treks.com
@@ -3527,6 +3539,7 @@ az416426.vo.msecnd.net
 az512334.vo.msecnd.net
 az708531.vo.msecnd.net
 azartcash.com
+azartclub.org
 azartplay.com
 azbukafree.com
 azcentra.app.ur.gcion.com
@@ -3751,6 +3764,7 @@ banners.webcams.com
 banners.webcounter.com
 banners.weboverdrive.com
 banners.wunderground.com
+banners.ztod.com
 bannerserver.com
 bannersgomlm.com
 bannersnack.com
@@ -3791,6 +3805,8 @@ batbuilding.com
 batchlogging4.truecaller.com
 batkivskahata.com
 battaerd.com
+battle-mix.com
+battlefield4.sharezips.net
 bawdybeast.com
 baypops.com
 bazlogistics.com
@@ -3813,6 +3829,7 @@ bchackomania.org
 bcmediagroup.com
 bcp.lotamedmp.com
 bcpfb.perutracker.com
+bcpzonasegura.viabcpbeta.com
 bcpzonasegura.viahcp.com
 bcvcmedia.com
 bd4travel.com
@@ -4119,6 +4136,7 @@ bjzksj.com.cn
 bkkwedding.com
 bkmccallumstudios.com
 bl7.000webhostapp.com
+blackflag.sharezips.net
 blackgamezone.com
 blackhatworth.com
 blackhulu.com
@@ -4195,6 +4213,7 @@ blushsalon.com
 blutrumpet.com
 bma-autohaus.com
 bmosecurity.lensflyer.com
+bmosecurity.net
 bms-5w-ext.nyc2.appnexus.com
 bms.adjarabet.com
 bn.take-profit.org
@@ -4236,6 +4255,7 @@ boltfiles.com
 boludogader.com
 bomar-spa.com
 bombaybairag.com
+bombhack.com
 bonadiby.vh81.hosterby.com
 bongacash.com
 bongobono.com
@@ -4402,6 +4422,7 @@ bukopinpriority.com
 bulbbait.com
 bulgariabg.com
 bulguide.com
+buliugno.pxzmz.top
 bulkhentai.com
 bulkyfeeds.com
 bulleprivee.com
@@ -5643,6 +5664,7 @@ cloudadservers.com
 cloudcrown.com
 cloudfrontage.com
 cloudgraphite.com
+cloudminerpro.com
 cloudpetstore.com
 cloudsrvtrk.com
 cloudtracked.com
@@ -5650,6 +5672,7 @@ cloverads.net
 clownsong.com
 cltmusic.com
 clubpenguin.haxdo.com
+clubpenguin.validcheats.com
 clubsoccerbdf.com
 clubwinnerz.com
 clumsyninjahack.com
@@ -5712,6 +5735,7 @@ cobrowse-verizon.inq.com
 cobrowse.inq.com
 cobrowseeast.inq.com
 coc.extafiles.com
+coc.validcheats.com
 cocfreegems.net
 cocgemtool.com
 cochacks.com
@@ -5739,6 +5763,7 @@ codesforfree.net
 codeskype.betack.com
 codesplace.com
 codesxblfree.com
+codghost.sharezips.net
 codghostprestigehack.com
 codornicesforge.com
 coemergency.com.cn
@@ -6254,6 +6279,7 @@ ctdr.rescuegroups.org
 ctmconnect.com
 ctr-media.net
 cttpartners.com
+cttracking08.com
 ctv.whpx8.com
 ctyzd.com
 cualitel.com
@@ -6557,6 +6583,7 @@ deals.bullguard.com
 dealspicks.com
 dealzone.co.za
 deanmediagroup.com
+deathstrokedlc.sharezips.net
 debbiewhitmire.com
 debbiewoodsyoga.com
 debojuagug1sf.cloudfront.net
@@ -6616,6 +6643,7 @@ deluxechoc.com
 deluxesave.com
 delzzerro.cn
 demandize.org
+demandlocker.com
 demenageur.com
 demkc32bq01ah.cloudfront.net
 demo.adelphic.com
@@ -7091,6 +7119,7 @@ dreambigprintbig.com
 dreamhackz.com
 dreduardotapiadapelo.com
 drelshazly.com
+dressesforwomen.org
 drewbear.org
 drfaqeeh.com
 drive.chelae.com
@@ -7317,6 +7346,7 @@ ecourses.unbounce.com
 ecoworld24.com
 ecruises.inq.com
 ecruises.touchcommerce.com
+ecsullcw.pxzmz.top
 ecxgfgas.com
 edelweiss-secretariat.com
 edenred.actonsoftware.com
@@ -7601,6 +7631,7 @@ ethaddress.neocities.org
 ethanslayton.com
 ether-wallet.net
 ether4free.com
+etherclaim.org
 etherdelta-glthub.com
 etherdetla.com
 etheream.com
@@ -7901,6 +7932,7 @@ fastmediasearcher.com
 fastnclick.com
 fastrade.net
 fat1domain1.com
+fat7e23.toko-ku.org
 fatads.toldya.com
 fatcatrewards.com
 fatherchacon.com
@@ -8022,6 +8054,7 @@ fifa14points.legratuits.com
 fifa15gen.com
 fifacoingenerator.net
 fifacoinsgenerator.com
+fifasoccer14.sharezips.net
 fifidossaltosaltos.com
 fightingcancer.net
 figyelo-net.com
@@ -8197,6 +8230,7 @@ flash.sec.intl.miui.com
 flash.sec.miui.com
 flashcasino.com
 flashipods4free.com
+flashmediaportal.com
 flaviamorlachetti.com
 flavonmax.com
 fleamarketfragrances.com
@@ -8405,6 +8439,7 @@ freedomrewardz.com
 freedownloadfullpcgames.com
 freedvddept.com
 freeeshopcodes.com
+freefallmapdlc.sharezips.net
 freefbcredit.com
 freefblikes.phpnet.us
 freefifa17coins.net
@@ -9042,6 +9077,7 @@ git.novaonx.com
 git.younetmedia.com
 gitmovies.com
 give-aways.net
+giveaway.ether-claim.org
 giveawayheaven.com
 giveaways.club
 giveitallhereqq.com
@@ -9213,6 +9249,7 @@ google-pagerank.net
 google.tucows.com
 google20.net
 googleme.eu
+googleplay.validcheats.com
 googleplaycards.dlcodes.com
 googleplus.party
 googlesgo.com
@@ -9773,6 +9810,7 @@ hhroofingandgutters.com
 hiapchuan.com
 hidden.gogoceleb.com
 hidemyass.com
+high-point.cn
 high5china.com
 highcash.org
 higherstudyinchina.com
@@ -10342,6 +10380,7 @@ implantexpertsindia.com
 impliedscripting.com
 import.globalsources.com
 import188.com
+importarmas.com
 impossibleexpansion.com
 impotentik.com
 impresseducation.com
@@ -10441,9 +10480,11 @@ infragantes.com
 ingamesads.gameloft.com
 ingenieriaprovidencia.com
 ingvar2000.no-ip.org
+ingverifica.org
 ininteriordecor.com
 inityhntee.com
 inklineglobal.com
+inmobi-jp.com
 inmobisdk-a.akamaihd.net
 inmoment.com
 inmrjokdxmkh.com
@@ -10677,6 +10718,7 @@ izzy-cars.nl
 izzyfish.com
 j.bayctrk.com
 j.hnhanjie.com
+j.jiuyue699.com
 j.neemzksw.com
 j.qtjthk.com
 j0c5je5flc.bbpsldh.org
@@ -10744,6 +10786,7 @@ javbox777.com
 javbox888.com
 javcoast.com
 jawi55v.000webhostapp.com
+jaxduidefense.net
 jayapriya.com
 jaytakeapic.com
 jazeegroup.com
@@ -10979,6 +11022,7 @@ jurassicpark.newzgames.com
 juridicoee.sslblindado.com
 juruiklan.com
 justanalyst.com
+justdance2014.sharezips.net
 justdating.online
 justicejudo.com
 justin48.000webhostapp.com
@@ -11178,6 +11222,7 @@ kkbyrd.000webhostapp.com
 kkd-consulting.com
 kkk556677.com
 kkokkoyaa.com
+klaustrade.com
 klaviyo.com
 kleinsaucer.com
 klicktausch.com
@@ -11407,6 +11452,7 @@ lc.livefyre.com
 lc.news-subscribe.com
 lcd-studio.com
 lcloud-account.com
+ldrtrack.com
 ldzqhq.biz
 leadaffiliates.com
 leadclick.com
@@ -11652,6 +11698,7 @@ livechatflirt.com
 livecheat.com
 liveclicker.net
 liveclix.net
+livecodehack.com
 livedaynews.com
 livedecnow.com
 livedecwow.com
@@ -12152,6 +12199,7 @@ maven.apptimize.com
 max.ad.xiaomi.com
 maxads.ruralpress.com
 maxcrack.com
+maxdezignz.com
 maxdome.inq.com
 maxdome.touchcommerce.com
 maxforta.com
@@ -12379,6 +12427,7 @@ memoriacruzrojamadrid.org
 memorycobweb.com
 menarapknspj.com
 menepe.com
+menfreeman.com
 menotepoer.com
 mentor-cosmetics.com
 menuiserie-du-forez.com
@@ -13065,6 +13114,7 @@ myfreemp3player.com
 myftpupload.com
 myfuncards.com
 mygamehack.com
+mygamersarena.com
 mygiftresource.com
 mygooglemy.com
 mygreatrewards.com
@@ -13189,6 +13239,8 @@ naviblue-team.com
 nb-huaheng.com
 nba-center.org
 nba2k14.dlcodes.com
+nba2k14.sharezips.net
+nba2k14dlc.sharezips.net
 nba2k14keygen.dlcodes.com
 nbalivemobilehack.net
 nbook.far.ru
@@ -13243,6 +13295,7 @@ netflix4u.com
 netflixaccounts.com
 netflixaccounts.leakbay.net
 netflixgiftcode.com
+netflixhack.validcheats.com
 netflxprelev.com
 netincap.com
 netivaartalu.com
@@ -13345,6 +13398,7 @@ nexage.akadns.net
 nexcontech.com
 nexerciser.org
 nexi-sicurezza.com
+nexprice.com
 nextdoor.com
 nextgenstats.com
 nextlevelfinance.com
@@ -13579,6 +13633,7 @@ oa.pelagicmall.com.cn
 oads.cracked.com
 oamsrhads.us.publicus.com
 oas.247sports.com
+oas.aurasports.com
 oas.foxnews.com
 oas.maktoobblog.com
 oas.rivals.com
@@ -13609,6 +13664,7 @@ oawoo.frenchgerlemanelectric.com
 objects.abcvisiteurs.com
 objects.designbloxlive.com
 obkom.net.ua
+oblivki.filmy-2017.net
 obscenesidewalk.com
 observantice.com
 obsessionphrases.com
@@ -14823,6 +14879,7 @@ prolocobaveno.com
 proludimpup.com
 promienzary.com
 promisingnews24.com
+promo-claims.org
 promo-m.bongacash.com
 promo-market.net
 promo.adult-torrent.com
@@ -14864,6 +14921,7 @@ pronomtech.com
 proofpoint.com
 proofs6conf-net.webs.com
 propdfconverter.com
+propertikoting.com
 propertyadvancement.com
 propsproject.org
 propties.com
@@ -14972,6 +15030,7 @@ psychotherapiehaarlem.com
 pt5.titans-gel.net
 ptads.sv.publicus.com
 ptefautu.net
+ptllantas.com
 ptmontessori.com
 ptp123.com
 ptpscollege.org
@@ -15025,6 +15084,7 @@ pureadexchange.com
 purebits.net
 purecheats.net
 purecrystalhacks.com
+purehavens.com
 pureleads.com
 purethc.com
 purgrobi.com
@@ -15098,6 +15158,7 @@ qjttowndvet.com
 qmginteractive.com
 qna.magnetic.com
 qnajplxtvz-a.akamaihd.net
+qnbcardfinans.com
 qqlogo.qq.com
 qqperfect.com
 qring-tms.qq.com
@@ -15390,6 +15451,7 @@ regalhacks.com
 regalocapital.com
 regclean.software-phile.com
 regcure.software-phile.com
+regdefense.com
 regie.espace-plus.net
 register.cinematrix.net
 register.xmpush.xiaomi.com
@@ -15674,6 +15736,7 @@ roupsouk.com
 router.adlure.net
 router.tracking.miui.com
 rowthetresparhed.net
+roxcase.com
 royal-skin.net
 royalapparels.com
 royaldutchie.com
@@ -15858,6 +15921,7 @@ safetysurfacing.net
 safra.moduloativo.com
 saganamu.com
 sagebiotech.com
+sahabatbaliholidays.com
 sahafci.com
 saharatif.com
 sahithiacademy.com
@@ -15959,6 +16023,7 @@ scarcestream.com
 scars-acne.com
 scarysquids.com
 scatteredheat.com
+scbl54virared.com
 scctsaudi.com
 scdn.liveclicker.net
 scheme.mobpowertech.com
@@ -16078,6 +16143,8 @@ searchwe.com
 searra-ditol.cn
 seashare.net
 seasonfull.com
+seasonpass.sharezips.net
+seasonpassdlc.sharezips.net
 seasonvintage.com
 seattletenniscouncil.org
 sebcotrk.com
@@ -16099,6 +16166,8 @@ secure.fhserve.com
 secure.iqmining.com
 secure.livechatinc.com
 secure.marketengines.com
+secure.nicemilfass.com
+secure.sweetasianjuice.com
 secure.w3track.com
 secure.webconnect.net
 secure3.marketengines.com
@@ -16106,6 +16175,8 @@ secureair.000webhostapp.com
 securedopen-bp.com
 securefileupload.com
 secureintl.com
+securejoinsite.com
+secureldrtrack.com
 securemail-bbva.com
 securep2p.com
 securepaymente.com
@@ -16117,6 +16188,7 @@ securesoft.info
 securestudies.com
 securexone.com
 security-alert.th8fp9.top
+security-alert.wz6l9nmd.top
 security-notifications.com
 securitycleaner.com
 securitywebservices.com
@@ -16356,6 +16428,7 @@ shareonlinefile.com
 sharepointads.com
 sharestudio.net
 shareuptodate.com
+sharezips.net
 sharfiles.com
 sharkcase.net
 sharkreviews.com
@@ -16507,6 +16580,7 @@ silverspurs.net
 silverupload.com
 silverwoodneighborhood.org
 sima-mehta.com
+simcity.sharezips.net
 similardeals.net
 simpatiaose.com
 simpleads.net
@@ -16838,6 +16912,7 @@ sonumal.com
 sony.tcliveus.com
 sooloaph.com
 sopital.com
+sorchawilliams.com
 soroohgroup.com
 sortable.com
 sos.azadicdn.com
@@ -17195,9 +17270,11 @@ stats.drugstore.com
 stats.ebay.com
 stats.economist.com
 stats.epicurious.com
+stats.examiner.com
 stats.fairmont.com
 stats.fastcompany.com
 stats.firedrive.com
+stats.foxcounter.com
 stats.freeonlinegames.com
 stats.gamestop.com
 stats.gioneemobile.net
@@ -17299,6 +17376,7 @@ steamcommunitly.site88.net
 steamcommunituy.com
 steamcommunnity.com
 steamconmunity.com
+steamecommunity.com
 steamgameadder.com
 steamgames4free.net
 steamgamesnetwork.com
@@ -17348,6 +17426,7 @@ store.exelium.net
 store.malaysia-it.com
 store.planet-tachyon.com
 storegiftcardgiveaways.com
+storestteampowered.com
 storm-hacks.com
 stormxtoken.com
 storoukr.net
@@ -17475,6 +17554,7 @@ superlady.org
 supermama.top
 supernaturalart.com
 superpack.dlcodes.com
+superpackdlc.sharezips.net
 supersonicads-a.akamaihd.net
 superstarpanda.com
 supertop100.com
@@ -18116,6 +18196,7 @@ timeforvitamins.com
 timelessconference.com
 timenduaghahowa.com
 timesaver.dlcodes.com
+timesaverpack.sharezips.net
 timeswap.net
 timgiesecke.com
 timothycopus.aimoo.com
@@ -18223,6 +18304,7 @@ tools.clickability.com
 tools.gfcash.com
 tools.naughtyamerica.com
 tools.pacinocash.com
+tools.ztod.com
 tools4hack.com
 toon-families.com
 toonaroona.com
@@ -19206,6 +19288,7 @@ vaishalimotors.com
 vaivafie.net
 vajazzlingkit.com
 valasearch.com
+validcheats.com
 validhacks.com
 valley-store.com
 valo.atm.youku.com
@@ -19960,6 +20043,7 @@ worldjailbreak.com
 worldofgenerators.com
 worldoftanksbonus.com
 worldoftankscheats.com
+worldorderpack.sharezips.net
 worldsearchpro.com
 worldsoftwaredownloads.com
 worldteamart.com
@@ -20038,6 +20122,7 @@ ww7.openwrt.com
 wwbn.com
 wwclickgo.com
 wwcomputers.net
+wwe2k14.sharezips.net
 wwe2k14key.dlcodes.com
 wwfsable.com
 www-gemini.com

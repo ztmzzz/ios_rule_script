@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 10:18:25
-# DOMAIN: 15151
+# UPDATED: 2021-10-14 02:12:16
+# DOMAIN: 15142
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 83398
+# DOMAIN-SUFFIX: 83393
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 98891
+# TOTAL: 98877
 payload:
   - DOMAIN-KEYWORD,112wan
   - DOMAIN-KEYWORD,789htbet

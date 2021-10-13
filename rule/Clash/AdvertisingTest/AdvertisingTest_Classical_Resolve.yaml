@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 10:18:25
-# DOMAIN: 15151
+# UPDATED: 2021-10-14 02:12:16
+# DOMAIN: 15142
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 83398
+# DOMAIN-SUFFIX: 83393
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 98891
+# TOTAL: 98877
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -56,7 +56,6 @@ payload:
   - DOMAIN,100shemales.com
   - DOMAIN,100webads.com
   - DOMAIN,101billion.com
-  - DOMAIN,101homeschool.com
   - DOMAIN,101malls.com
   - DOMAIN,10pipsaffiliates.com
   - DOMAIN,114oldest.com
@@ -819,6 +818,7 @@ payload:
   - DOMAIN,ads.dijitalvarliklar.com
   - DOMAIN,ads.discreetad.com
   - DOMAIN,ads.dkelseymedia.com
+  - DOMAIN,ads.dokrmob.com
   - DOMAIN,ads.domain.com
   - DOMAIN,ads.domainoptions.net
   - DOMAIN,ads.downloadaccelerator.com
@@ -1800,7 +1800,6 @@ payload:
   - DOMAIN,applets.sulekha.com
   - DOMAIN,appolicious.com
   - DOMAIN,appprices.com
-  - DOMAIN,apprebates.com
   - DOMAIN,appredeem.com
   - DOMAIN,approstar.com
   - DOMAIN,apps.ad.snappea.com
@@ -1878,7 +1877,6 @@ payload:
   - DOMAIN,artcomix.com
   - DOMAIN,artebinaria.com
   - DOMAIN,artoflivingfaridabad.org
-  - DOMAIN,artpress.top
   - DOMAIN,artsconsortium.org
   - DOMAIN,artteachers.drudesk.com
   - DOMAIN,artwatchghana.org
@@ -3464,7 +3462,6 @@ payload:
   - DOMAIN,client.adara.com
   - DOMAIN,client.spalot.com
   - DOMAIN,clienteltau.com
-  - DOMAIN,clientesvips.com
   - DOMAIN,cliftonparksales.com
   - DOMAIN,climblike.com
   - DOMAIN,clinicombiosolution.com
@@ -3781,7 +3778,6 @@ payload:
   - DOMAIN,cpa.adthink.com
   - DOMAIN,cpabuild.com
   - DOMAIN,cpaclickoffer.com
-  - DOMAIN,cpajump.centenr.com
   - DOMAIN,cpcn.000webhostapp.com
   - DOMAIN,cpe.us.dotomi.weighted.com.akadns.net
   - DOMAIN,cpi-istanbul.com
@@ -4517,7 +4513,6 @@ payload:
   - DOMAIN,downloadju.com
   - DOMAIN,downloadkeyfull.com
   - DOMAIN,downloadme.org
-  - DOMAIN,downloadne.com
   - DOMAIN,downloadnt.com
   - DOMAIN,downloadoc.com
   - DOMAIN,downloadoney.com
@@ -5211,7 +5206,6 @@ payload:
   - DOMAIN,facpanel.com
   - DOMAIN,fadeatrighlet.com
   - DOMAIN,fadsats.com
-  - DOMAIN,faerimoon.com
   - DOMAIN,failmobile.net
   - DOMAIN,fairhack.com
   - DOMAIN,faiyazahmed.com
@@ -5756,7 +5750,6 @@ payload:
   - DOMAIN,freemyapps.com
   - DOMAIN,freeneopets.com
   - DOMAIN,freenetflix.dlcodes.com
-  - DOMAIN,freenetflixaccounts.com
   - DOMAIN,freenetflixaccounts.org
   - DOMAIN,freenewbooks.com
   - DOMAIN,freenfaccount.com
@@ -6806,6 +6799,7 @@ payload:
   - DOMAIN,hiapchuan.com
   - DOMAIN,hidden.gogoceleb.com
   - DOMAIN,hidemyass.com
+  - DOMAIN,high-point.cn
   - DOMAIN,high5china.com
   - DOMAIN,highcash.org
   - DOMAIN,higherstudyinchina.com
@@ -7939,6 +7933,7 @@ payload:
   - DOMAIN,kkd-consulting.com
   - DOMAIN,kkk556677.com
   - DOMAIN,kkokkoyaa.com
+  - DOMAIN,klaustrade.com
   - DOMAIN,klaviyo.com
   - DOMAIN,kleinsaucer.com
   - DOMAIN,klikbonus.com
@@ -7978,7 +7973,6 @@ payload:
   - DOMAIN,koreanwithkevin.com
   - DOMAIN,koreasafety.com
   - DOMAIN,koromias.com
-  - DOMAIN,koshishinclusiveschool.org
   - DOMAIN,kosmosbrands.com
   - DOMAIN,kotbis1.000webhostapp.com
   - DOMAIN,kotebis.000webhostapp.com
@@ -8150,7 +8144,6 @@ payload:
   - DOMAIN,leekaz2.000webhostapp.com
   - DOMAIN,leesangku.com
   - DOMAIN,leethax.net
-  - DOMAIN,leetskins.com
   - DOMAIN,leewelton.com
   - DOMAIN,legacy.dotomi.weighted.com.akadns.net
   - DOMAIN,legacyet.com
@@ -12177,7 +12170,6 @@ payload:
   - DOMAIN,sp-res.kosungames.com
   - DOMAIN,sp1.baidu.com
   - DOMAIN,space2019.top
-  - DOMAIN,spacefiled.com
   - DOMAIN,spacemega.com
   - DOMAIN,spacesarchitects-ka.com
   - DOMAIN,spain-poetry.com
@@ -13938,7 +13930,6 @@ payload:
   - DOMAIN,vfastdownload.com
   - DOMAIN,vglacademy.com
   - DOMAIN,vgtre.000webhostapp.com
-  - DOMAIN,viajesdelcomercio.com
   - DOMAIN,viajestabascochavos.com
   - DOMAIN,viambull.000webhostapp.com
   - DOMAIN,vianaedias.net
@@ -16129,7 +16120,6 @@ payload:
   - DOMAIN-SUFFIX,28wangmeng.com
   - DOMAIN-SUFFIX,292812.com
   - DOMAIN-SUFFIX,292news.biz
-  - DOMAIN-SUFFIX,2933448a31.4e39c772dc.com
   - DOMAIN-SUFFIX,293870.com
   - DOMAIN-SUFFIX,293aca873d.com
   - DOMAIN-SUFFIX,2969firefighterstore.com
@@ -18324,7 +18314,6 @@ payload:
   - DOMAIN-SUFFIX,a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
   - DOMAIN-SUFFIX,a0675c1160de6c6.com
   - DOMAIN-SUFFIX,a06bbd98194c252.com
-  - DOMAIN-SUFFIX,a0a18dc255.1772c9ffd2.com
   - DOMAIN-SUFFIX,a0b11.com
   - DOMAIN-SUFFIX,a0b22.com
   - DOMAIN-SUFFIX,a0b24c83b8.3000f4e548.com
@@ -32151,7 +32140,6 @@ payload:
   - DOMAIN-SUFFIX,cb.h5.coffeedak.cn
   - DOMAIN-SUFFIX,cb.ksmobile.com
   - DOMAIN-SUFFIX,cb.sailthru.com
-  - DOMAIN-SUFFIX,cb2d4d0a03.ce3fbb6bac.com
   - DOMAIN-SUFFIX,cb3fzwkkt6yxt.xyz
   - DOMAIN-SUFFIX,cb8717377086c72d.com
   - DOMAIN-SUFFIX,cba-fed-igh.com
@@ -32643,6 +32631,7 @@ payload:
   - DOMAIN-SUFFIX,celebwelove.com
   - DOMAIN-SUFFIX,celerantatters.com
   - DOMAIN-SUFFIX,celeritascdn.com
+  - DOMAIN-SUFFIX,celesterium.com
   - DOMAIN-SUFFIX,celestia.es
   - DOMAIN-SUFFIX,celestia.fr
   - DOMAIN-SUFFIX,celexa.1.p2l.info
@@ -36078,7 +36067,6 @@ payload:
   - DOMAIN-SUFFIX,create2fear.com
   - DOMAIN-SUFFIX,createssque.club
   - DOMAIN-SUFFIX,creative-analytics.crossinstall.io
-  - DOMAIN-SUFFIX,creative-banana.tk
   - DOMAIN-SUFFIX,creative-cdn.appgrowth.com
   - DOMAIN-SUFFIX,creative-serving.com
   - DOMAIN-SUFFIX,creative.1111cpc.com
@@ -89333,7 +89321,6 @@ payload:
   - DOMAIN-SUFFIX,tybfxw.puma.com
   - DOMAIN-SUFFIX,tyboyyli.xyz
   - DOMAIN-SUFFIX,tycho.apptimize.com
-  - DOMAIN-SUFFIX,tycoon-migration.tk
   - DOMAIN-SUFFIX,tydd.hunterwish.cn
   - DOMAIN-SUFFIX,tygafso.com
   - DOMAIN-SUFFIX,tyh.taobao.com
@@ -93094,7 +93081,6 @@ payload:
   - DOMAIN-SUFFIX,welcome.pussysaga.com
   - DOMAIN-SUFFIX,welcomehosting.net
   - DOMAIN-SUFFIX,welcomeylc.com
-  - DOMAIN-SUFFIX,welcoming-carpets.tk
   - DOMAIN-SUFFIX,welcomingprotective.com
   - DOMAIN-SUFFIX,weld.iefsf.com
   - DOMAIN-SUFFIX,weld.uunice.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 02:08:54
+# UPDATED: 2021-10-14 02:12:15
 # HOST: 53
-# HOST-SUFFIX: 33593
+# HOST-SUFFIX: 33594
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 129
 # IP6-CIDR: 4
-# TOTAL: 33868
+# TOTAL: 33869
 HOST,amp.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,apple.com.akadns.net,Global
@@ -23427,6 +23427,7 @@ HOST-SUFFIX,slheng.com,Global
 HOST-SUFFIX,slickvpn.com,Global
 HOST-SUFFIX,slideshare.com,Global
 HOST-SUFFIX,slideshare.net,Global
+HOST-SUFFIX,slidesharecdn.com,Global
 HOST-SUFFIX,slime.com.tw,Global
 HOST-SUFFIX,slimspots.com,Global
 HOST-SUFFIX,sling,Global

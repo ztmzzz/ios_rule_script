@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 02:08:56
+# UPDATED: 2021-10-14 02:12:17
 # DOMAIN: 49
-# DOMAIN-SUFFIX: 33604
+# DOMAIN-SUFFIX: 33605
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33773
+# TOTAL: 33774
 payload:
   - 'amp.akamaized.net'
   - 'api-p.videomarket.jp'
@@ -23424,6 +23424,7 @@ payload:
   - '.slickvpn.com'
   - '.slideshare.com'
   - '.slideshare.net'
+  - '.slidesharecdn.com'
   - '.slime.com.tw'
   - '.slimspots.com'
   - '.sling'

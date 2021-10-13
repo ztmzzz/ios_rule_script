@@ -1,16 +1,16 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 02:08:55
+# UPDATED: 2021-10-14 02:12:16
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 53
-# DOMAIN-SUFFIX: 33593
+# DOMAIN-SUFFIX: 33594
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # URL-REGEX: 1
-# TOTAL: 33869
+# TOTAL: 33870
 amp.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
@@ -23429,6 +23429,7 @@ www.icloud.com
 .slickvpn.com
 .slideshare.com
 .slideshare.net
+.slidesharecdn.com
 .slime.com.tw
 .slimspots.com
 .sling

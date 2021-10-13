@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 02:08:54
+# UPDATED: 2021-10-14 02:12:15
 # HOST: 49
-# HOST-SUFFIX: 33604
+# HOST-SUFFIX: 33605
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 33784
+# TOTAL: 33785
 HOST,amp.akamaized.net,Proxy
 HOST,api-p.videomarket.jp,Proxy
 HOST,apple.com.akadns.net,Proxy
@@ -23424,6 +23424,7 @@ HOST-SUFFIX,slheng.com,Proxy
 HOST-SUFFIX,slickvpn.com,Proxy
 HOST-SUFFIX,slideshare.com,Proxy
 HOST-SUFFIX,slideshare.net,Proxy
+HOST-SUFFIX,slidesharecdn.com,Proxy
 HOST-SUFFIX,slime.com.tw,Proxy
 HOST-SUFFIX,slimspots.com,Proxy
 HOST-SUFFIX,sling,Proxy

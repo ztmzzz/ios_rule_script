@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-13 10:18:25
+# UPDATED: 2021-10-14 02:12:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 15151
+# DOMAIN: 15142
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 83398
+# DOMAIN-SUFFIX: 83393
 # IP-CIDR: 253
 # URL-REGEX: 301
-# TOTAL: 99191
+# TOTAL: 99177
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -56,7 +56,6 @@
 100shemales.com
 100webads.com
 101billion.com
-101homeschool.com
 101malls.com
 10pipsaffiliates.com
 114oldest.com
@@ -819,6 +818,7 @@ ads.devicebondage.com
 ads.dijitalvarliklar.com
 ads.discreetad.com
 ads.dkelseymedia.com
+ads.dokrmob.com
 ads.domain.com
 ads.domainoptions.net
 ads.downloadaccelerator.com
@@ -1800,7 +1800,6 @@ appletonfloorco.com
 applets.sulekha.com
 appolicious.com
 appprices.com
-apprebates.com
 appredeem.com
 approstar.com
 apps.ad.snappea.com
@@ -1878,7 +1877,6 @@ artamkari.com
 artcomix.com
 artebinaria.com
 artoflivingfaridabad.org
-artpress.top
 artsconsortium.org
 artteachers.drudesk.com
 artwatchghana.org
@@ -3464,7 +3462,6 @@ clickz.lonelycheatingwives.com
 client.adara.com
 client.spalot.com
 clienteltau.com
-clientesvips.com
 cliftonparksales.com
 climblike.com
 clinicombiosolution.com
@@ -3781,7 +3778,6 @@ cp.qc.coccoc.com
 cpa.adthink.com
 cpabuild.com
 cpaclickoffer.com
-cpajump.centenr.com
 cpcn.000webhostapp.com
 cpe.us.dotomi.weighted.com.akadns.net
 cpi-istanbul.com
@@ -4517,7 +4513,6 @@ downloadity.net
 downloadju.com
 downloadkeyfull.com
 downloadme.org
-downloadne.com
 downloadnt.com
 downloadoc.com
 downloadoney.com
@@ -5211,7 +5206,6 @@ fackbkoo.000webhostapp.com
 facpanel.com
 fadeatrighlet.com
 fadsats.com
-faerimoon.com
 failmobile.net
 fairhack.com
 faiyazahmed.com
@@ -5756,7 +5750,6 @@ freemspointsforever.com
 freemyapps.com
 freeneopets.com
 freenetflix.dlcodes.com
-freenetflixaccounts.com
 freenetflixaccounts.org
 freenewbooks.com
 freenfaccount.com
@@ -6806,6 +6799,7 @@ hhroofingandgutters.com
 hiapchuan.com
 hidden.gogoceleb.com
 hidemyass.com
+high-point.cn
 high5china.com
 highcash.org
 higherstudyinchina.com
@@ -7939,6 +7933,7 @@ kkbyrd.000webhostapp.com
 kkd-consulting.com
 kkk556677.com
 kkokkoyaa.com
+klaustrade.com
 klaviyo.com
 kleinsaucer.com
 klikbonus.com
@@ -7978,7 +7973,6 @@ kontil231.000webhostapp.com
 koreanwithkevin.com
 koreasafety.com
 koromias.com
-koshishinclusiveschool.org
 kosmosbrands.com
 kotbis1.000webhostapp.com
 kotebis.000webhostapp.com
@@ -8150,7 +8144,6 @@ lechefboutique.com
 leekaz2.000webhostapp.com
 leesangku.com
 leethax.net
-leetskins.com
 leewelton.com
 legacy.dotomi.weighted.com.akadns.net
 legacyet.com
@@ -12177,7 +12170,6 @@ sp-prod.net
 sp-res.kosungames.com
 sp1.baidu.com
 space2019.top
-spacefiled.com
 spacemega.com
 spacesarchitects-ka.com
 spain-poetry.com
@@ -13938,7 +13930,6 @@ vf7.soundsecureredir.com
 vfastdownload.com
 vglacademy.com
 vgtre.000webhostapp.com
-viajesdelcomercio.com
 viajestabascochavos.com
 viambull.000webhostapp.com
 vianaedias.net
@@ -16129,7 +16120,6 @@ zzz.clickbank.net
 .28wangmeng.com
 .292812.com
 .292news.biz
-.2933448a31.4e39c772dc.com
 .293870.com
 .293aca873d.com
 .2969firefighterstore.com
@@ -18324,7 +18314,6 @@ zzz.clickbank.net
 .a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 .a0675c1160de6c6.com
 .a06bbd98194c252.com
-.a0a18dc255.1772c9ffd2.com
 .a0b11.com
 .a0b22.com
 .a0b24c83b8.3000f4e548.com
@@ -32151,7 +32140,6 @@ zzz.clickbank.net
 .cb.h5.coffeedak.cn
 .cb.ksmobile.com
 .cb.sailthru.com
-.cb2d4d0a03.ce3fbb6bac.com
 .cb3fzwkkt6yxt.xyz
 .cb8717377086c72d.com
 .cba-fed-igh.com
@@ -32643,6 +32631,7 @@ zzz.clickbank.net
 .celebwelove.com
 .celerantatters.com
 .celeritascdn.com
+.celesterium.com
 .celestia.es
 .celestia.fr
 .celexa.1.p2l.info
@@ -36078,7 +36067,6 @@ zzz.clickbank.net
 .create2fear.com
 .createssque.club
 .creative-analytics.crossinstall.io
-.creative-banana.tk
 .creative-cdn.appgrowth.com
 .creative-serving.com
 .creative.1111cpc.com
@@ -89333,7 +89321,6 @@ zzz.clickbank.net
 .tybfxw.puma.com
 .tyboyyli.xyz
 .tycho.apptimize.com
-.tycoon-migration.tk
 .tydd.hunterwish.cn
 .tygafso.com
 .tyh.taobao.com
@@ -93094,7 +93081,6 @@ zzz.clickbank.net
 .welcome.pussysaga.com
 .welcomehosting.net
 .welcomeylc.com
-.welcoming-carpets.tk
 .welcomingprotective.com
 .weld.iefsf.com
 .weld.uunice.com
