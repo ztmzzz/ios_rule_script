@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-14 02:12:16
+# UPDATED: 2021-10-15 02:08:30
 # DOMAIN: 15142
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 83393
+# DOMAIN-SUFFIX: 83476
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 98877
+# TOTAL: 98960
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -1951,6 +1951,7 @@ payload:
   - DOMAIN,athenscollisionctr.com
   - DOMAIN,ati-host.net
   - DOMAIN,atianqi.com
+  - DOMAIN,ativacaoapp.com
   - DOMAIN,atkitchenware.com
   - DOMAIN,atlas-mountain-treks.com
   - DOMAIN,atlasdmt.com
@@ -2238,6 +2239,7 @@ payload:
   - DOMAIN,beaconplanning.net
   - DOMAIN,beads.sx.atl.publicus.com
   - DOMAIN,beaglebeatrecords.com
+  - DOMAIN,beamslife.com
   - DOMAIN,beanexperience.com
   - DOMAIN,beanscattering.jp
   - DOMAIN,bearsonthemantlepiece.com
@@ -3102,7 +3104,6 @@ payload:
   - DOMAIN,cdndgs.ruirobot.com
   - DOMAIN,cdndownload.liehu.ijinshan.com
   - DOMAIN,cdnjs.tvpage.com
-  - DOMAIN,cdnmedia.xyz
   - DOMAIN,cdnrep.reimageplus.com
   - DOMAIN,cdns.eu1.gigya.com
   - DOMAIN,cdns.gigya.com
@@ -3883,7 +3884,6 @@ payload:
   - DOMAIN,cs1137.wpc.gammacdn.net
   - DOMAIN,cscprivatelabel.com
   - DOMAIN,csegurosural.com
-  - DOMAIN,csgo-drop.com
   - DOMAIN,csgo-hacks.com
   - DOMAIN,csgoaimbot.com
   - DOMAIN,csgoboom.net
@@ -4821,7 +4821,6 @@ payload:
   - DOMAIN,elisadalbosco.com
   - DOMAIN,elisehagedoorn.com
   - DOMAIN,elite-cases.com
-  - DOMAIN,elite-trust.com
   - DOMAIN,elitecheats24.com
   - DOMAIN,elitedigital2017.com
   - DOMAIN,elitegamehacks.com
@@ -5102,6 +5101,7 @@ payload:
   - DOMAIN,excellenthacks.com
   - DOMAIN,exchange.superfastmediation.com
   - DOMAIN,exchange.xbiz.com
+  - DOMAIN,exclusive-collections.com
   - DOMAIN,exclusiveholidayresorts.com
   - DOMAIN,excluzive.net
   - DOMAIN,exct.net
@@ -5172,7 +5172,6 @@ payload:
   - DOMAIN,faas.mtraction.com
   - DOMAIN,faberlic.com
   - DOMAIN,faberville.com
-  - DOMAIN,fabgumus.com
   - DOMAIN,fabioalbini.com
   - DOMAIN,fabrics-store.com
   - DOMAIN,fabriquekorea.com
@@ -5209,7 +5208,6 @@ payload:
   - DOMAIN,failmobile.net
   - DOMAIN,fairhack.com
   - DOMAIN,faiyazahmed.com
-  - DOMAIN,fakir-archi.net
   - DOMAIN,falaseriodiabetes.com
   - DOMAIN,falconexport.com
   - DOMAIN,falconsafari.com
@@ -6313,7 +6311,6 @@ payload:
   - DOMAIN,goodlivingexpo.com
   - DOMAIN,goodmenonthego.com
   - DOMAIN,goodphpprogrammer.com
-  - DOMAIN,googcapital.com
   - DOMAIN,google-analitics.com
   - DOMAIN,google-analyze.cn
   - DOMAIN,google.tucows.com
@@ -7135,7 +7132,6 @@ payload:
   - DOMAIN,iklantanpadaftar.com
   - DOMAIN,iliavilla.com
   - DOMAIN,ilividnewtab.com
-  - DOMAIN,ilmupelet.net
   - DOMAIN,ilogs.bytefence.com
   - DOMAIN,iloopmobile.com
   - DOMAIN,ilorcisoft.com
@@ -7950,6 +7946,7 @@ payload:
   - DOMAIN,kneelandgeographics.com
   - DOMAIN,knickelbein.com
   - DOMAIN,knightsanddragonshack.com
+  - DOMAIN,knigonosha.net
   - DOMAIN,knittingnet.cn
   - DOMAIN,knockoffcologne.com
   - DOMAIN,kodipc.linkandzelda.com
@@ -8222,7 +8219,6 @@ payload:
   - DOMAIN,life-antics.com
   - DOMAIN,lifegranit.com
   - DOMAIN,lifehackz.net
-  - DOMAIN,lifeideas.site
   - DOMAIN,lifelineoutreach.com
   - DOMAIN,lifelock.inq.com
   - DOMAIN,lifelock.touchcommerce.com
@@ -9028,6 +9024,7 @@ payload:
   - DOMAIN,mnogobab.com
   - DOMAIN,moapi.wps.cn
   - DOMAIN,mob1.i0578cn.com
+  - DOMAIN,mob10.dxpxw.com
   - DOMAIN,mob11.youyicl.com
   - DOMAIN,mob22.lymiao89.com
   - DOMAIN,mobacoinhack.com
@@ -9351,6 +9348,7 @@ payload:
   - DOMAIN,myetherwalletmew.com
   - DOMAIN,myetherwallets.com
   - DOMAIN,myetherwallets.net
+  - DOMAIN,myetherwallett.com
   - DOMAIN,myetherwallett.neocities.org
   - DOMAIN,myetherwalliet.com
   - DOMAIN,myetherwallt.com
@@ -9677,7 +9675,6 @@ payload:
   - DOMAIN,novec-power.com
   - DOMAIN,novedadesdiarias.com
   - DOMAIN,noveslovo.com
-  - DOMAIN,now-movie.com
   - DOMAIN,nowina.info
   - DOMAIN,nowmusik.com
   - DOMAIN,nqs.nice264.com
@@ -11444,6 +11441,7 @@ payload:
   - DOMAIN,sbstriders.org
   - DOMAIN,sc-va.liveclicker.net
   - DOMAIN,sc.liveclicker.net
+  - DOMAIN,scanmyphones.com
   - DOMAIN,scantanzania.com
   - DOMAIN,scars-acne.com
   - DOMAIN,scarysquids.com
@@ -12543,6 +12541,7 @@ payload:
   - DOMAIN,studiesmadesimple.com
   - DOMAIN,studiolegaleabbruzzese.com
   - DOMAIN,studiotitus.com
+  - DOMAIN,study-by.com
   - DOMAIN,stuff-nzwhistleout.s3.amazonaws.com
   - DOMAIN,stuntoffer.com
   - DOMAIN,sturdeephotography.com
@@ -14583,6 +14582,7 @@ payload:
   - DOMAIN,www.sanseracingteam.com
   - DOMAIN,www.sbo.it
   - DOMAIN,www.sc.pages03.net
+  - DOMAIN,www.scanmyphones.com
   - DOMAIN,www.scantanzania.com
   - DOMAIN,www.seal-technicsag.ch
   - DOMAIN,www.secondome.com
@@ -15352,6 +15352,7 @@ payload:
   - DOMAIN-SUFFIX,0h6djpk8fn.com
   - DOMAIN-SUFFIX,0i56tboc6j5i.com
   - DOMAIN-SUFFIX,0ij3tm.com
+  - DOMAIN-SUFFIX,0iqiehoa35.ru
   - DOMAIN-SUFFIX,0j7z9aw6.top
   - DOMAIN-SUFFIX,0ka.com
   - DOMAIN-SUFFIX,0klxjejyxak3.com
@@ -15872,6 +15873,7 @@ payload:
   - DOMAIN-SUFFIX,1q2w3.fun
   - DOMAIN-SUFFIX,1q2w3.life
   - DOMAIN-SUFFIX,1q2w3.me
+  - DOMAIN-SUFFIX,1q2w3.top
   - DOMAIN-SUFFIX,1q2w3.website
   - DOMAIN-SUFFIX,1q8h.cn
   - DOMAIN-SUFFIX,1qwe3r.com
@@ -16191,6 +16193,7 @@ payload:
   - DOMAIN-SUFFIX,2ktd0.cn
   - DOMAIN-SUFFIX,2kurl.com
   - DOMAIN-SUFFIX,2l1f.cn
+  - DOMAIN-SUFFIX,2ledhenone.com
   - DOMAIN-SUFFIX,2leep.com
   - DOMAIN-SUFFIX,2lian.com
   - DOMAIN-SUFFIX,2lwlh385os.com
@@ -17074,6 +17077,7 @@ payload:
   - DOMAIN-SUFFIX,64p3am9x95ct.com
   - DOMAIN-SUFFIX,64ri.cn
   - DOMAIN-SUFFIX,64si.com
+  - DOMAIN-SUFFIX,64uq73u7ug.webcam
   - DOMAIN-SUFFIX,6519114.automated.tajawal.com
   - DOMAIN-SUFFIX,6519114.email.tajawal.com
   - DOMAIN-SUFFIX,6519114.loyalty.almosafer.com
@@ -18671,6 +18675,7 @@ payload:
   - DOMAIN-SUFFIX,aahvz.top
   - DOMAIN-SUFFIX,aakkzzz.com
   - DOMAIN-SUFFIX,aalaan.tv
+  - DOMAIN-SUFFIX,aalbbh84.info
   - DOMAIN-SUFFIX,aaliyaheartha.com
   - DOMAIN-SUFFIX,aam.gumtree.com.au
   - DOMAIN-SUFFIX,aamapi.com
@@ -18814,6 +18819,18 @@ payload:
   - DOMAIN-SUFFIX,abkdae.namshi.com
   - DOMAIN-SUFFIX,ablebodiedcool.com
   - DOMAIN-SUFFIX,ablehed.pro
+  - DOMAIN-SUFFIX,ablen01.tk
+  - DOMAIN-SUFFIX,ablen02.tk
+  - DOMAIN-SUFFIX,ablen03.tk
+  - DOMAIN-SUFFIX,ablen04.tk
+  - DOMAIN-SUFFIX,ablen05.tk
+  - DOMAIN-SUFFIX,ablen06.tk
+  - DOMAIN-SUFFIX,ablen07.tk
+  - DOMAIN-SUFFIX,ablen08.tk
+  - DOMAIN-SUFFIX,ablen09.tk
+  - DOMAIN-SUFFIX,ablen10.tk
+  - DOMAIN-SUFFIX,ablen11.tk
+  - DOMAIN-SUFFIX,ablen12.tk
   - DOMAIN-SUFFIX,ablenctionalle.info
   - DOMAIN-SUFFIX,ablerivetdoubted.com
   - DOMAIN-SUFFIX,ablida-rotation.com
@@ -19096,6 +19113,7 @@ payload:
   - DOMAIN-SUFFIX,accompared.club
   - DOMAIN-SUFFIX,accompathych.site
   - DOMAIN-SUFFIX,accomplex.club
+  - DOMAIN-SUFFIX,accompliceexpressingpug.com
   - DOMAIN-SUFFIX,accomplishmentformation.com
   - DOMAIN-SUFFIX,accordprybreathe.com
   - DOMAIN-SUFFIX,accountant-audio.com
@@ -24035,6 +24053,7 @@ payload:
   - DOMAIN-SUFFIX,afd.l.google.com
   - DOMAIN-SUFFIX,afdads.com
   - DOMAIN-SUFFIX,afdbande.cn
+  - DOMAIN-SUFFIX,afdjljiyagf.ru
   - DOMAIN-SUFFIX,afdyfxfrwbfy.com
   - DOMAIN-SUFFIX,afefw.com
   - DOMAIN-SUFFIX,afekiryj.xyz
@@ -24415,6 +24434,7 @@ payload:
   - DOMAIN-SUFFIX,ahoigzbodtcd.com
   - DOMAIN-SUFFIX,ahojer.com
   - DOMAIN-SUFFIX,ahoyhyperbay.com
+  - DOMAIN-SUFFIX,ahoypirate.in
   - DOMAIN-SUFFIX,ahoypiratebaai.eu
   - DOMAIN-SUFFIX,ahqlx.top
   - DOMAIN-SUFFIX,ahqpqpdjpj.com
@@ -24558,6 +24578,7 @@ payload:
   - DOMAIN-SUFFIX,airpr.com
   - DOMAIN-SUFFIX,airproxyboat.in
   - DOMAIN-SUFFIX,airproxyproxy.pw
+  - DOMAIN-SUFFIX,airproxytpb.re
   - DOMAIN-SUFFIX,airproxyunblocked.org
   - DOMAIN-SUFFIX,airpush.com
   - DOMAIN-SUFFIX,airpushmarketing.s3.amazonaws.com
@@ -24578,6 +24599,7 @@ payload:
   - DOMAIN-SUFFIX,aisouk.cn
   - DOMAIN-SUFFIX,aissoksu.net
   - DOMAIN-SUFFIX,aistat.net
+  - DOMAIN-SUFFIX,ait7ee.win
   - DOMAIN-SUFFIX,aitaoshegnqian.cn
   - DOMAIN-SUFFIX,aitehao.top
   - DOMAIN-SUFFIX,aivalabs.com
@@ -24637,6 +24659,7 @@ payload:
   - DOMAIN-SUFFIX,ajkzd9h.com
   - DOMAIN-SUFFIX,ajlnty.vipavenue.ru
   - DOMAIN-SUFFIX,ajnad.aljazeera.net
+  - DOMAIN-SUFFIX,ajplugins.com
   - DOMAIN-SUFFIX,ajpxs.xyz
   - DOMAIN-SUFFIX,ajrequestion.xyz
   - DOMAIN-SUFFIX,ajtctiiiaz.com
@@ -24768,6 +24791,7 @@ payload:
   - DOMAIN-SUFFIX,alfatarget.ru
   - DOMAIN-SUFFIX,alfatraffic.com
   - DOMAIN-SUFFIX,alfeza.vueling.com
+  - DOMAIN-SUFFIX,alflying.bi
   - DOMAIN-SUFFIX,alflying.bid
   - DOMAIN-SUFFIX,alflying.date
   - DOMAIN-SUFFIX,alflying.win
@@ -24884,6 +24908,7 @@ payload:
   - DOMAIN-SUFFIX,allegra.1.p2l.info
   - DOMAIN-SUFFIX,alleliteads.com
   - DOMAIN-SUFFIX,allemodels.com
+  - DOMAIN-SUFFIX,allengao.top
   - DOMAIN-SUFFIX,allengeoun.club
   - DOMAIN-SUFFIX,allenprepareattic.com
   - DOMAIN-SUFFIX,allergiesandcooking.com
@@ -25114,6 +25139,7 @@ payload:
   - DOMAIN-SUFFIX,amghvzn.cn
   - DOMAIN-SUFFIX,amgload.net
   - DOMAIN-SUFFIX,amgtomdcxvm.com
+  - DOMAIN-SUFFIX,amhixwqagiz.ru
   - DOMAIN-SUFFIX,amhpbhyxfgvd.com
   - DOMAIN-SUFFIX,amiablebackscertified.com
   - DOMAIN-SUFFIX,amigo-biz.ru
@@ -26026,6 +26052,7 @@ payload:
   - DOMAIN-SUFFIX,anybagant.club
   - DOMAIN-SUFFIX,anybest.host
   - DOMAIN-SUFFIX,anybest.pw
+  - DOMAIN-SUFFIX,anybest.si
   - DOMAIN-SUFFIX,anybest.site
   - DOMAIN-SUFFIX,anybest.space
   - DOMAIN-SUFFIX,anycadark.site
@@ -26171,7 +26198,6 @@ payload:
   - DOMAIN-SUFFIX,api.22lianmeng.com
   - DOMAIN-SUFFIX,api.24kidea.com
   - DOMAIN-SUFFIX,api.557400.com
-  - DOMAIN-SUFFIX,api.aalbbh84.info
   - DOMAIN-SUFFIX,api.accengage.com
   - DOMAIN-SUFFIX,api.ad.xv555.com
   - DOMAIN-SUFFIX,api.ad.yipinread.com
@@ -27218,6 +27244,7 @@ payload:
   - DOMAIN-SUFFIX,astancerta.fun
   - DOMAIN-SUFFIX,astat.nikkei.com
   - DOMAIN-SUFFIX,aster18cdn.nl
+  - DOMAIN-SUFFIX,aster18prx.nl
   - DOMAIN-SUFFIX,asterilivestream.com
   - DOMAIN-SUFFIX,asteriresearch.com
   - DOMAIN-SUFFIX,asterpix.com
@@ -27239,6 +27266,7 @@ payload:
   - DOMAIN-SUFFIX,asuppsttp.com
   - DOMAIN-SUFFIX,asuqoqsea.com
   - DOMAIN-SUFFIX,asuydisi.com
+  - DOMAIN-SUFFIX,asvoxod.ru
   - DOMAIN-SUFFIX,aswemaching.xyz
   - DOMAIN-SUFFIX,aswfs.xyz
   - DOMAIN-SUFFIX,aswgbzsw.xingtangshuo.com
@@ -27476,6 +27504,7 @@ payload:
   - DOMAIN-SUFFIX,augur.io
   - DOMAIN-SUFFIX,august15download.com
   - DOMAIN-SUFFIX,augustjudgementsuddenly.com
+  - DOMAIN-SUFFIX,augvtjtnsfnxg.ru
   - DOMAIN-SUFFIX,auiehechoulh.ru
   - DOMAIN-SUFFIX,auiviilbp2.com
   - DOMAIN-SUFFIX,aujaujoa.net
@@ -27522,7 +27551,6 @@ payload:
   - DOMAIN-SUFFIX,auth.bz
   - DOMAIN-SUFFIX,auth.follow-apps.com
   - DOMAIN-SUFFIX,auth.split.io
-  - DOMAIN-SUFFIX,auth4-eng.spankbang.com
   - DOMAIN-SUFFIX,authcaptcha.com
   - DOMAIN-SUFFIX,authedmine.com
   - DOMAIN-SUFFIX,authedmine.eu
@@ -27639,6 +27667,7 @@ payload:
   - DOMAIN-SUFFIX,avsvmcloud.com
   - DOMAIN-SUFFIX,avtiaozhuan.com
   - DOMAIN-SUFFIX,avualrhg9p.bid
+  - DOMAIN-SUFFIX,avualrhg9p0.bid
   - DOMAIN-SUFFIX,avuvldbc.com
   - DOMAIN-SUFFIX,avwcupyzbccer.com
   - DOMAIN-SUFFIX,avwincall.info
@@ -27739,6 +27768,7 @@ payload:
   - DOMAIN-SUFFIX,axept.io
   - DOMAIN-SUFFIX,axeptio.eu
   - DOMAIN-SUFFIX,axf8.net
+  - DOMAIN-SUFFIX,axfrb.cn
   - DOMAIN-SUFFIX,axhxa.com
   - DOMAIN-SUFFIX,axiaffiliates.com
   - DOMAIN-SUFFIX,axiba66.com
@@ -28695,6 +28725,7 @@ payload:
   - DOMAIN-SUFFIX,baxt.mobi
   - DOMAIN-SUFFIX,baxusanu.pro
   - DOMAIN-SUFFIX,bay.xiawu.com
+  - DOMAIN-SUFFIX,bayception.org
   - DOMAIN-SUFFIX,bayception.pw
   - DOMAIN-SUFFIX,baycode.cn
   - DOMAIN-SUFFIX,bayctrk.com
@@ -28713,6 +28744,7 @@ payload:
   - DOMAIN-SUFFIX,bayunblocked.eu
   - DOMAIN-SUFFIX,baywednesday.com
   - DOMAIN-SUFFIX,baywest.ac
+  - DOMAIN-SUFFIX,baywttgdhe.do
   - DOMAIN-SUFFIX,baywttgdhe.download
   - DOMAIN-SUFFIX,bazandegan.com
   - DOMAIN-SUFFIX,bazenatuzu.com
@@ -32289,7 +32321,6 @@ payload:
   - DOMAIN-SUFFIX,cdhoc.piyaji.cn
   - DOMAIN-SUFFIX,cdiah.com
   - DOMAIN-SUFFIX,cdj99d.cn
-  - DOMAIN-SUFFIX,cdjchpojgifwc.ru
   - DOMAIN-SUFFIX,cdjkngs.cn
   - DOMAIN-SUFFIX,cdjs.online
   - DOMAIN-SUFFIX,cdlinli.com
@@ -32475,7 +32506,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.sports-streams-online.club
   - DOMAIN-SUFFIX,cdn.sports-streams-online.xyz
   - DOMAIN-SUFFIX,cdn.stat.easydate.biz
-  - DOMAIN-SUFFIX,cdn.static-cnt.bid
   - DOMAIN-SUFFIX,cdn.steambets.net
   - DOMAIN-SUFFIX,cdn.surroundtm.com
   - DOMAIN-SUFFIX,cdn.swellrewards.com
@@ -32614,6 +32644,7 @@ payload:
   - DOMAIN-SUFFIX,ceg.g5e.com
   - DOMAIN-SUFFIX,cegludse.net
   - DOMAIN-SUFFIX,cehappear.fun
+  - DOMAIN-SUFFIX,cehbf.com
   - DOMAIN-SUFFIX,cehbg.com
   - DOMAIN-SUFFIX,cehbs.com
   - DOMAIN-SUFFIX,cehiswasreb.ru
@@ -39047,6 +39078,7 @@ payload:
   - DOMAIN-SUFFIX,djrxpvhkqcowfuq.xyz
   - DOMAIN-SUFFIX,djs.baomihua.com
   - DOMAIN-SUFFIX,djsn888.com
+  - DOMAIN-SUFFIX,djss-design.cn
   - DOMAIN-SUFFIX,djtflbt20bdde.cloudfront.net
   - DOMAIN-SUFFIX,djugoogs.com
   - DOMAIN-SUFFIX,djuzsbnnm.biz
@@ -43806,6 +43838,7 @@ payload:
   - DOMAIN-SUFFIX,feifish66.com
   - DOMAIN-SUFFIX,feih.com.cn
   - DOMAIN-SUFFIX,feihongjiaoyu.com
+  - DOMAIN-SUFFIX,feilan5.cn
   - DOMAIN-SUFFIX,feimotailan.cn
   - DOMAIN-SUFFIX,feintstrainhog.com
   - DOMAIN-SUFFIX,feipaihehuoren.cn
@@ -44247,6 +44280,7 @@ payload:
   - DOMAIN-SUFFIX,fjbatbqiwpxydg.com
   - DOMAIN-SUFFIX,fjbzjc.com
   - DOMAIN-SUFFIX,fjctlnn.top
+  - DOMAIN-SUFFIX,fjdfqy.com
   - DOMAIN-SUFFIX,fjdvzx.cn
   - DOMAIN-SUFFIX,fjdy.cc
   - DOMAIN-SUFFIX,fjfpeqgeyp.com
@@ -44844,6 +44878,7 @@ payload:
   - DOMAIN-SUFFIX,fpmef.com
   - DOMAIN-SUFFIX,fprnt.com
   - DOMAIN-SUFFIX,fpsekwpfk.com
+  - DOMAIN-SUFFIX,fpt.microsoft.com
   - DOMAIN-SUFFIX,fptad.com
   - DOMAIN-SUFFIX,fpwtsp.xxxlutz.de
   - DOMAIN-SUFFIX,fpxewa.ilmeteo.it
@@ -47843,6 +47878,7 @@ payload:
   - DOMAIN-SUFFIX,gueselambe.club
   - DOMAIN-SUFFIX,guess.h.qhimg.com
   - DOMAIN-SUFFIX,guestworld.tripod.lycos.com
+  - DOMAIN-SUFFIX,gufan.fun
   - DOMAIN-SUFFIX,guffawdecipher.com
   - DOMAIN-SUFFIX,guffawsister.com
   - DOMAIN-SUFFIX,gug.ku6cdn.com
@@ -47942,6 +47978,7 @@ payload:
   - DOMAIN-SUFFIX,gw6.push.mcp.weibo.cn
   - DOMAIN-SUFFIX,gw630.com
   - DOMAIN-SUFFIX,gw7eez7b7fa3.com
+  - DOMAIN-SUFFIX,gwaaz.cn
   - DOMAIN-SUFFIX,gwallet.com
   - DOMAIN-SUFFIX,gwatchestfe.top
   - DOMAIN-SUFFIX,gwbangshou.com
@@ -49600,6 +49637,7 @@ payload:
   - DOMAIN-SUFFIX,hosticanaffiliate.com
   - DOMAIN-SUFFIX,hostilepetulant.com
   - DOMAIN-SUFFIX,hostingcloud.live
+  - DOMAIN-SUFFIX,hostingcloud.loan
   - DOMAIN-SUFFIX,hostingcloud.party
   - DOMAIN-SUFFIX,hostingcloud.racing
   - DOMAIN-SUFFIX,hostingcloud.review
@@ -50236,6 +50274,7 @@ payload:
   - DOMAIN-SUFFIX,hzqzxf.com
   - DOMAIN-SUFFIX,hzsod71wov.me
   - DOMAIN-SUFFIX,hzsrjs.com
+  - DOMAIN-SUFFIX,hzucji.com
   - DOMAIN-SUFFIX,hzuheh.palcloset.jp
   - DOMAIN-SUFFIX,hzuok.com
   - DOMAIN-SUFFIX,hzuvw.com
@@ -51149,6 +51188,7 @@ payload:
   - DOMAIN-SUFFIX,imitrk.com
   - DOMAIN-SUFFIX,imlive.com
   - DOMAIN-SUFFIX,immanalytics.com
+  - DOMAIN-SUFFIX,immaohao.cn
   - DOMAIN-SUFFIX,immassets.s3.amazonaws.com
   - DOMAIN-SUFFIX,immediadement-arretez-ezhez-identfcie-jasdasd1233-9057.com
   - DOMAIN-SUFFIX,immedlinkum.info
@@ -51818,6 +51858,7 @@ payload:
   - DOMAIN-SUFFIX,informtext.blogspot.com
   - DOMAIN-SUFFIX,informvisitors.com
   - DOMAIN-SUFFIX,informz.net
+  - DOMAIN-SUFFIX,inforuss.site
   - DOMAIN-SUFFIX,infos-bourses.com
   - DOMAIN-SUFFIX,infos.anz-originator.com.au
   - DOMAIN-SUFFIX,infos.anz.com
@@ -52176,6 +52217,7 @@ payload:
   - DOMAIN-SUFFIX,intermrkts.vo.llnwd.net
   - DOMAIN-SUFFIX,intermundomedia.com
   - DOMAIN-SUFFIX,intern.forskning.no
+  - DOMAIN-SUFFIX,internal-ana.spankbang.com
   - DOMAIN-SUFFIX,internalcomms.hubinternational.com
   - DOMAIN-SUFFIX,internalforms.legalsolutions.thomsonreuters.co.uk
   - DOMAIN-SUFFIX,internalsink.com
@@ -53481,6 +53523,7 @@ payload:
   - DOMAIN-SUFFIX,jndczg.com
   - DOMAIN-SUFFIX,jndfrqz.com
   - DOMAIN-SUFFIX,jnffgawh.com
+  - DOMAIN-SUFFIX,jngdg.top
   - DOMAIN-SUFFIX,jnjcxx.com
   - DOMAIN-SUFFIX,jnkqds.cn
   - DOMAIN-SUFFIX,jnm.o41qed.cn
@@ -53805,6 +53848,7 @@ payload:
   - DOMAIN-SUFFIX,jsgo979.com
   - DOMAIN-SUFFIX,jshkyh.29cm.co.kr
   - DOMAIN-SUFFIX,jshonghuadq.com
+  - DOMAIN-SUFFIX,jshosting.bi
   - DOMAIN-SUFFIX,jshosting.review
   - DOMAIN-SUFFIX,jshosting.science
   - DOMAIN-SUFFIX,jshosting.win
@@ -54606,6 +54650,7 @@ payload:
   - DOMAIN-SUFFIX,kid9.info
   - DOMAIN-SUFFIX,kiddbs.baby-calendar.jp
   - DOMAIN-SUFFIX,kidexecha.com
+  - DOMAIN-SUFFIX,kidisland.cn
   - DOMAIN-SUFFIX,kidnepishlient.pro
   - DOMAIN-SUFFIX,kidrarsi.net
   - DOMAIN-SUFFIX,kids-in-sandbox.com
@@ -56899,7 +56944,6 @@ payload:
   - DOMAIN-SUFFIX,lmavci.eloquii.com
   - DOMAIN-SUFFIX,lmbsy.qq.com
   - DOMAIN-SUFFIX,lmdknj.xxbiquge.net
-  - DOMAIN-SUFFIX,lmeeulcfttqv.ru
   - DOMAIN-SUFFIX,lmepskqkrrya.com
   - DOMAIN-SUFFIX,lmfjmq.smaryu.com
   - DOMAIN-SUFFIX,lmiutil.com
@@ -58820,7 +58864,6 @@ payload:
   - DOMAIN-SUFFIX,magiq.com
   - DOMAIN-SUFFIX,magna.ru
   - DOMAIN-SUFFIX,magnetairport.com
-  - DOMAIN-SUFFIX,magnetbay.eu
   - DOMAIN-SUFFIX,magnetdog.net
   - DOMAIN-SUFFIX,magnetisemedia.com
   - DOMAIN-SUFFIX,magnetmail1.net
@@ -62005,6 +62048,7 @@ payload:
   - DOMAIN-SUFFIX,mhmp.bruker.com
   - DOMAIN-SUFFIX,mhogb.space
   - DOMAIN-SUFFIX,mhradio.org
+  - DOMAIN-SUFFIX,mhtrt.com
   - DOMAIN-SUFFIX,mhub.work
   - DOMAIN-SUFFIX,mhuodong.elong.com
   - DOMAIN-SUFFIX,mhuos.com
@@ -62950,7 +62994,6 @@ payload:
   - DOMAIN-SUFFIX,monero-miner.com
   - DOMAIN-SUFFIX,monero-miner.net
   - DOMAIN-SUFFIX,monero.how
-  - DOMAIN-SUFFIX,monerominer.ro
   - DOMAIN-SUFFIX,monerominer.rocks
   - DOMAIN-SUFFIX,moneroocean.stream
   - DOMAIN-SUFFIX,monetate.net
@@ -65552,6 +65595,7 @@ payload:
   - DOMAIN-SUFFIX,novadv.com
   - DOMAIN-SUFFIX,novafinanza.com
   - DOMAIN-SUFFIX,novaleafgroup.cn
+  - DOMAIN-SUFFIX,novaminers.tk
   - DOMAIN-SUFFIX,novanet.vn
   - DOMAIN-SUFFIX,novaon.asia
   - DOMAIN-SUFFIX,novaon.vn
@@ -66618,6 +66662,7 @@ payload:
   - DOMAIN-SUFFIX,oimg.universalorlandovacations.com
   - DOMAIN-SUFFIX,oimsgad.qq.com
   - DOMAIN-SUFFIX,oinadserve.com
+  - DOMAIN-SUFFIX,oinkinns.tk
   - DOMAIN-SUFFIX,oinvalentpriv.top
   - DOMAIN-SUFFIX,oiodyx.baldur-garten.de
   - DOMAIN-SUFFIX,oiokewfkjnvq.com
@@ -67784,6 +67829,7 @@ payload:
   - DOMAIN-SUFFIX,ouofis.socolor.ru
   - DOMAIN-SUFFIX,oupaumul.net
   - DOMAIN-SUFFIX,oupe71eiun.com
+  - DOMAIN-SUFFIX,ouphoarg.com
   - DOMAIN-SUFFIX,ouphowor.com
   - DOMAIN-SUFFIX,oupox.club
   - DOMAIN-SUFFIX,oupushee.com
@@ -68723,6 +68769,7 @@ payload:
   - DOMAIN-SUFFIX,payslipsscowl.com
   - DOMAIN-SUFFIX,paywithcrytpo.com
   - DOMAIN-SUFFIX,paywoman.ru
+  - DOMAIN-SUFFIX,pazl1.ru
   - DOMAIN-SUFFIX,pb.bi.gitv.tv
   - DOMAIN-SUFFIX,pb.hd.sohu.com
   - DOMAIN-SUFFIX,pb.hd.sohu.com.cn
@@ -69675,7 +69722,6 @@ payload:
   - DOMAIN-SUFFIX,piratebay.to
   - DOMAIN-SUFFIX,piratenbucht.eu
   - DOMAIN-SUFFIX,piratepc.net
-  - DOMAIN-SUFFIX,pirateproxy.cl
   - DOMAIN-SUFFIX,piratepx.com
   - DOMAIN-SUFFIX,pirchio.com
   - DOMAIN-SUFFIX,pirdoust.com
@@ -70272,6 +70318,7 @@ payload:
   - DOMAIN-SUFFIX,podfdch.com
   - DOMAIN-SUFFIX,podhopfit.site
   - DOMAIN-SUFFIX,podiumpresto.com
+  - DOMAIN-SUFFIX,podrltid.info
   - DOMAIN-SUFFIX,podsolnu9hi10.com
   - DOMAIN-SUFFIX,podsunwen.icu
   - DOMAIN-SUFFIX,podwonclarity.com
@@ -75200,6 +75247,7 @@ payload:
   - DOMAIN-SUFFIX,runmeethoomes.info
   - DOMAIN-SUFFIX,runmewivel.com
   - DOMAIN-SUFFIX,runnersgunpowder.com
+  - DOMAIN-SUFFIX,runnyamowt.com
   - DOMAIN-SUFFIX,runslin.com
   - DOMAIN-SUFFIX,runtime.lemonpi.io
   - DOMAIN-SUFFIX,runtnc.net
@@ -77638,6 +77686,7 @@ payload:
   - DOMAIN-SUFFIX,sh.hsfzexsg.com
   - DOMAIN-SUFFIX,sh.qihoo.com
   - DOMAIN-SUFFIX,sh2070.evanzo-server.de
+  - DOMAIN-SUFFIX,sh5208.vip
   - DOMAIN-SUFFIX,sha1.videotrek.co
   - DOMAIN-SUFFIX,sha50.com
   - DOMAIN-SUFFIX,shackapple.com
@@ -82170,6 +82219,7 @@ payload:
   - DOMAIN-SUFFIX,static-ads.akamaized.net
   - DOMAIN-SUFFIX,static-ads.zaloapp.com
   - DOMAIN-SUFFIX,static-cnt.bi
+  - DOMAIN-SUFFIX,static-cnt.bid
   - DOMAIN-SUFFIX,static-downloads.com
   - DOMAIN-SUFFIX,static-google-analtyic.com
   - DOMAIN-SUFFIX,static-img.threatbook.cn
@@ -83166,6 +83216,7 @@ payload:
   - DOMAIN-SUFFIX,stimergeners.pro
   - DOMAIN-SUFFIX,stimmtso.space
   - DOMAIN-SUFFIX,stimtavy.net
+  - DOMAIN-SUFFIX,stimulateartificial.com
   - DOMAIN-SUFFIX,stingjagged.com
   - DOMAIN-SUFFIX,stingoroubles.com
   - DOMAIN-SUFFIX,stingray.communityally.org
@@ -91234,6 +91285,7 @@ payload:
   - DOMAIN-SUFFIX,victory1999.com
   - DOMAIN-SUFFIX,vicuna.casa-moebel.at
   - DOMAIN-SUFFIX,vicuna.joblicant.de
+  - DOMAIN-SUFFIX,vicustom.cn
   - DOMAIN-SUFFIX,vicwin.vip
   - DOMAIN-SUFFIX,vid-adblocker.com
   - DOMAIN-SUFFIX,vid.me
@@ -92028,6 +92080,7 @@ payload:
   - DOMAIN-SUFFIX,vtracking.in.com
   - DOMAIN-SUFFIX,vtracy.de
   - DOMAIN-SUFFIX,vtrtl.de
+  - DOMAIN-SUFFIX,vtsgaqnfvzcyu.ru
   - DOMAIN-SUFFIX,vttics.world.co.jp
   - DOMAIN-SUFFIX,vtvcab.xyz
   - DOMAIN-SUFFIX,vua1004.club
@@ -92105,6 +92158,7 @@ payload:
   - DOMAIN-SUFFIX,vx88.com
   - DOMAIN-SUFFIX,vx88e.com
   - DOMAIN-SUFFIX,vxcjoz.nextadvisor.com
+  - DOMAIN-SUFFIX,vxelkrhl.info
   - DOMAIN-SUFFIX,vxhmytfndmqko.com
   - DOMAIN-SUFFIX,vxiframe.biz
   - DOMAIN-SUFFIX,vxlpha.weddingpark.net
@@ -92152,6 +92206,7 @@ payload:
   - DOMAIN-SUFFIX,vzyat-kredit.info
   - DOMAIN-SUFFIX,vzynem.lamporochljus.se
   - DOMAIN-SUFFIX,vzyuphrmanfbks.com
+  - DOMAIN-SUFFIX,vzzexalcirfgrf.ru
   - DOMAIN-SUFFIX,vzzylo.com
   - DOMAIN-SUFFIX,w-chat.xf.cz
   - DOMAIN-SUFFIX,w-m-w.net
@@ -93069,6 +93124,7 @@ payload:
   - DOMAIN-SUFFIX,weixingshexiangji.net
   - DOMAIN-SUFFIX,weixinhuoyuan.com
   - DOMAIN-SUFFIX,weixinvip.ren
+  - DOMAIN-SUFFIX,weixinxx.com
   - DOMAIN-SUFFIX,weiyajz.cn
   - DOMAIN-SUFFIX,weizhenwx.com
   - DOMAIN-SUFFIX,weiziqiang.top
@@ -93113,6 +93169,7 @@ payload:
   - DOMAIN-SUFFIX,wemdsm.com
   - DOMAIN-SUFFIX,wemetiwou.biz
   - DOMAIN-SUFFIX,wemfbox.ch
+  - DOMAIN-SUFFIX,wemine.pro
   - DOMAIN-SUFFIX,wenbangsh.com.cn
   - DOMAIN-SUFFIX,wenda.io
   - DOMAIN-SUFFIX,wengesog.net
@@ -93233,6 +93290,7 @@ payload:
   - DOMAIN-SUFFIX,whatcanidowithbirds.com
   - DOMAIN-SUFFIX,whatcl.ru
   - DOMAIN-SUFFIX,whathuvopu.com
+  - DOMAIN-SUFFIX,whathyx.com
   - DOMAIN-SUFFIX,whatishotnow.net
   - DOMAIN-SUFFIX,whatismyip.win
   - DOMAIN-SUFFIX,whatisuptodaynow.com
@@ -93281,6 +93339,7 @@ payload:
   - DOMAIN-SUFFIX,whereascredentialsurmise.com
   - DOMAIN-SUFFIX,whereasplaid.com
   - DOMAIN-SUFFIX,wheredoyoucomefrom.ovh
+  - DOMAIN-SUFFIX,whereismommy.gq
   - DOMAIN-SUFFIX,whereismybonus.com
   - DOMAIN-SUFFIX,whereismyhand.com
   - DOMAIN-SUFFIX,whereismytree.net
@@ -93388,6 +93447,7 @@ payload:
   - DOMAIN-SUFFIX,whycywhivu.pro
   - DOMAIN-SUFFIX,whynotyesterday.com
   - DOMAIN-SUFFIX,whypillyellow.com
+  - DOMAIN-SUFFIX,whysoserius.cl
   - DOMAIN-SUFFIX,whysoserius.club
   - DOMAIN-SUFFIX,whytoss.com
   - DOMAIN-SUFFIX,whyzipsiwho.com
@@ -93711,6 +93771,7 @@ payload:
   - DOMAIN-SUFFIX,witsoats.net
   - DOMAIN-SUFFIX,witstandfridge.com
   - DOMAIN-SUFFIX,witthethim.com
+  - DOMAIN-SUFFIX,wittyoffers.club
   - DOMAIN-SUFFIX,wivamyno.pro
   - DOMAIN-SUFFIX,wivo2gaza.com
   - DOMAIN-SUFFIX,wiwapaxo.xyz
@@ -93750,6 +93811,7 @@ payload:
   - DOMAIN-SUFFIX,wkj1pt02twa3.www.earthclassmail.com
   - DOMAIN-SUFFIX,wkjava.top
   - DOMAIN-SUFFIX,wkjhd.com
+  - DOMAIN-SUFFIX,wkkjfcgjofbix.ru
   - DOMAIN-SUFFIX,wkll7glfazgp.com
   - DOMAIN-SUFFIX,wklwyt.springer.com
   - DOMAIN-SUFFIX,wknaczrxjrj.com
@@ -93802,6 +93864,7 @@ payload:
   - DOMAIN-SUFFIX,wmcdp.io
   - DOMAIN-SUFFIX,wmclickz.ru
   - DOMAIN-SUFFIX,wmedia-track.uc.cn
+  - DOMAIN-SUFFIX,wmemsnhgldd.ru
   - DOMAIN-SUFFIX,wmeng.feihuadns.com
   - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wmgroup.us
@@ -93822,6 +93885,7 @@ payload:
   - DOMAIN-SUFFIX,wmtech.website
   - DOMAIN-SUFFIX,wmton.com
   - DOMAIN-SUFFIX,wmwloejxww.com
+  - DOMAIN-SUFFIX,wmwmwwfmkvucbln.ru
   - DOMAIN-SUFFIX,wmwyq.xyz
   - DOMAIN-SUFFIX,wmxuba.aldoshoes.com
   - DOMAIN-SUFFIX,wmzona.com
@@ -93834,6 +93898,7 @@ payload:
   - DOMAIN-SUFFIX,wnllmofqxsziio.com
   - DOMAIN-SUFFIX,wnlyjhb.com
   - DOMAIN-SUFFIX,wnmalshuld.com
+  - DOMAIN-SUFFIX,wnmyerzbjhu.ru
   - DOMAIN-SUFFIX,wnozpl.escarpe.it
   - DOMAIN-SUFFIX,wnp.com
   - DOMAIN-SUFFIX,wnpbdan.bid
@@ -94113,10 +94178,12 @@ payload:
   - DOMAIN-SUFFIX,wrmcfyzl.com
   - DOMAIN-SUFFIX,wrongerababan.info
   - DOMAIN-SUFFIX,wrongpotato.com
+  - DOMAIN-SUFFIX,wronpeci.com
   - DOMAIN-SUFFIX,wrontonshatbona.pro
   - DOMAIN-SUFFIX,wroteadministercurve.com
   - DOMAIN-SUFFIX,wrqmkayidop.com
   - DOMAIN-SUFFIX,wrvdmh.cn
+  - DOMAIN-SUFFIX,wrxgandsfcz.ru
   - DOMAIN-SUFFIX,wryfinger.com
   - DOMAIN-SUFFIX,ws-gateway.com
   - DOMAIN-SUFFIX,ws-goguardian.pusher.com
@@ -94139,6 +94206,7 @@ payload:
   - DOMAIN-SUFFIX,ws2.cootekservice.com
   - DOMAIN-SUFFIX,ws341.com
   - DOMAIN-SUFFIX,ws7j.com
+  - DOMAIN-SUFFIX,wsabci.com
   - DOMAIN-SUFFIX,wsbnk.com
   - DOMAIN-SUFFIX,wscn.site
   - DOMAIN-SUFFIX,wsd.guonongllc.com
@@ -94235,6 +94303,7 @@ payload:
   - DOMAIN-SUFFIX,wttd.madeleine.de
   - DOMAIN-SUFFIX,wttd.madeleine.fr
   - DOMAIN-SUFFIX,wttd.madeleine.gr
+  - DOMAIN-SUFFIX,wty46.com
   - DOMAIN-SUFFIX,wtzgaa.com
   - DOMAIN-SUFFIX,wtzkrp.nicelaundry.com
   - DOMAIN-SUFFIX,wtztkpy.cn
@@ -94659,7 +94728,6 @@ payload:
   - DOMAIN-SUFFIX,www.hostingcloud.date
   - DOMAIN-SUFFIX,www.hostingcloud.download
   - DOMAIN-SUFFIX,www.hostingcloud.faith
-  - DOMAIN-SUFFIX,www.hostingcloud.loan
   - DOMAIN-SUFFIX,www.huberts-kochseite.de
   - DOMAIN-SUFFIX,www.huren-verzeichnis.is4all.de
   - DOMAIN-SUFFIX,www.hyvf65qiht.us
@@ -95589,6 +95657,7 @@ payload:
   - DOMAIN-SUFFIX,xgctdamahrzy.com
   - DOMAIN-SUFFIX,xgdhmwbgilx.com
   - DOMAIN-SUFFIX,xgdhxgznp.com
+  - DOMAIN-SUFFIX,xgefmxd.ru
   - DOMAIN-SUFFIX,xggayd.thecolouredhouse.nl
   - DOMAIN-SUFFIX,xgmc6lu8fs.me
   - DOMAIN-SUFFIX,xgogi.com
@@ -95643,6 +95712,7 @@ payload:
   - DOMAIN-SUFFIX,xiankandy.com
   - DOMAIN-SUFFIX,xianliao.me
   - DOMAIN-SUFFIX,xiansenmeng.cn
+  - DOMAIN-SUFFIX,xianweidang.cc
   - DOMAIN-SUFFIX,xianxhwy.com
   - DOMAIN-SUFFIX,xiaoangel.com
   - DOMAIN-SUFFIX,xiaobeier.cn
@@ -95890,6 +95960,7 @@ payload:
   - DOMAIN-SUFFIX,xmcxz.com
   - DOMAIN-SUFFIX,xmdwlpwvzt.com
   - DOMAIN-SUFFIX,xmemory.ru
+  - DOMAIN-SUFFIX,xmg.cool
   - DOMAIN-SUFFIX,xmgdfb.cn
   - DOMAIN-SUFFIX,xmglass.cn
   - DOMAIN-SUFFIX,xmgysweb.com
@@ -96527,6 +96598,7 @@ payload:
   - DOMAIN-SUFFIX,ybfwmm.cn
   - DOMAIN-SUFFIX,ybhssnaemxyer.cinci.rr.com
   - DOMAIN-SUFFIX,ybhypt.com
+  - DOMAIN-SUFFIX,ybjfsqcevow.ru
   - DOMAIN-SUFFIX,ybotvisit.com
   - DOMAIN-SUFFIX,ybpxv.com
   - DOMAIN-SUFFIX,ybrantdigital.com
@@ -96994,6 +97066,7 @@ payload:
   - DOMAIN-SUFFIX,yo34b.cn
   - DOMAIN-SUFFIX,yo88.win
   - DOMAIN-SUFFIX,yo88vn.vip
+  - DOMAIN-SUFFIX,yoaabgvkm.ru
   - DOMAIN-SUFFIX,yoads.net
   - DOMAIN-SUFFIX,yoads.network
   - DOMAIN-SUFFIX,yoajqj.com
@@ -97154,6 +97227,7 @@ payload:
   - DOMAIN-SUFFIX,yourlastchance.net
   - DOMAIN-SUFFIX,yourlegacy.club
   - DOMAIN-SUFFIX,yourlocalguardian-gb.yourlocalguardian.co.uk
+  - DOMAIN-SUFFIX,yourloganalytics.com
   - DOMAIN-SUFFIX,yourlustmedia.com
   - DOMAIN-SUFFIX,youronestopshop.themagnetgroup.com
   - DOMAIN-SUFFIX,yourquickads.com
@@ -97325,6 +97399,7 @@ payload:
   - DOMAIN-SUFFIX,yuebofa.cc
   - DOMAIN-SUFFIX,yuedu.iqiyi.com
   - DOMAIN-SUFFIX,yueduyy.com
+  - DOMAIN-SUFFIX,yueleshenghuo.cn
   - DOMAIN-SUFFIX,yueli101.xyz
   - DOMAIN-SUFFIX,yueqiangss.cn
   - DOMAIN-SUFFIX,yuesenshangmao.cn
@@ -97407,6 +97482,7 @@ payload:
   - DOMAIN-SUFFIX,yuyinqs.com
   - DOMAIN-SUFFIX,yuyue008.cn
   - DOMAIN-SUFFIX,yuyueyang.cn
+  - DOMAIN-SUFFIX,yuyyio.com
   - DOMAIN-SUFFIX,yvatswzotstdve.com
   - DOMAIN-SUFFIX,yvcjyi.beymen.com
   - DOMAIN-SUFFIX,yvdaeg.on-running.com
@@ -97635,6 +97711,7 @@ payload:
   - DOMAIN-SUFFIX,zav4gln44kez.com
   - DOMAIN-SUFFIX,zaventemdijleland.viessmann.be
   - DOMAIN-SUFFIX,zavrotfro.com
+  - DOMAIN-SUFFIX,zavzlen.ru
   - DOMAIN-SUFFIX,zayac2volk11.com
   - DOMAIN-SUFFIX,zazerygu.pro
   - DOMAIN-SUFFIX,zazhipu.com
@@ -97872,6 +97949,7 @@ payload:
   - DOMAIN-SUFFIX,zhanzhang.baidu.com
   - DOMAIN-SUFFIX,zhanzhang.net
   - DOMAIN-SUFFIX,zhao258.com
+  - DOMAIN-SUFFIX,zhaoanhu.vip
   - DOMAIN-SUFFIX,zhaoshang8.com
   - DOMAIN-SUFFIX,zhaosijie.cn
   - DOMAIN-SUFFIX,zhaowaibao.mobi
@@ -98042,15 +98120,18 @@ payload:
   - DOMAIN-SUFFIX,zirobata.com
   - DOMAIN-SUFFIX,zirve100.com
   - DOMAIN-SUFFIX,zisboombah.net
+  - DOMAIN-SUFFIX,zishahh.com
   - DOMAIN-SUFFIX,zismone.ru
   - DOMAIN-SUFFIX,zisu.cn.com
   - DOMAIN-SUFFIX,zisunion.com
   - DOMAIN-SUFFIX,zitanmushu.com
   - DOMAIN-SUFFIX,zitaoh.cn
+  - DOMAIN-SUFFIX,zivbxion.ru
   - DOMAIN-SUFFIX,zixiansun.com
   - DOMAIN-SUFFIX,zixun8.com
   - DOMAIN-SUFFIX,ziye8.com
   - DOMAIN-SUFFIX,ziyeaiying.com
+  - DOMAIN-SUFFIX,ziykrgc.ru
   - DOMAIN-SUFFIX,ziyouxiaoyuan.cn
   - DOMAIN-SUFFIX,ziyu.net
   - DOMAIN-SUFFIX,ziyuantx.com
@@ -98061,6 +98142,7 @@ payload:
   - DOMAIN-SUFFIX,zj66.net
   - DOMAIN-SUFFIX,zjbdt.com
   - DOMAIN-SUFFIX,zjcxyh.cn
+  - DOMAIN-SUFFIX,zjemch.ru
   - DOMAIN-SUFFIX,zjgfq.com
   - DOMAIN-SUFFIX,zjhim.com
   - DOMAIN-SUFFIX,zjhoudao.com
@@ -98523,6 +98605,7 @@ payload:
   - DOMAIN-SUFFIX,zzoacwqfw.com
   - DOMAIN-SUFFIX,zzpush.58.com
   - DOMAIN-SUFFIX,zzpzero.com
+  - DOMAIN-SUFFIX,zzqhsrg.ru
   - DOMAIN-SUFFIX,zzqqhb.com
   - DOMAIN-SUFFIX,zzqsmjj.top
   - DOMAIN-SUFFIX,zzrcz.com

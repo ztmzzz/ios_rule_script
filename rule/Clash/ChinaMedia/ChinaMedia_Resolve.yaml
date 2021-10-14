@@ -1,13 +1,13 @@
 # NAME: ChinaMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-08-05 08:51:05
-# DOMAIN-SUFFIX: 165
+# UPDATED: 2021-10-15 02:08:30
+# DOMAIN-SUFFIX: 170
 # PROCESS-NAME: 2
 # DOMAIN: 51
 # IP-CIDR: 35
 # DOMAIN-KEYWORD: 2
-# TOTAL: 255
+# TOTAL: 260
 payload:
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -99,6 +99,11 @@ payload:
   - DOMAIN-SUFFIX,bilibiligame.net
   - DOMAIN-SUFFIX,bilibilipay.cn
   - DOMAIN-SUFFIX,bilibilipay.com
+  - DOMAIN-SUFFIX,bilicdn1.com
+  - DOMAIN-SUFFIX,bilicdn2.com
+  - DOMAIN-SUFFIX,bilicdn3.com
+  - DOMAIN-SUFFIX,bilicdn4.com
+  - DOMAIN-SUFFIX,bilicdn5.com
   - DOMAIN-SUFFIX,biligame.cn
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net

@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-09 02:08:44
-# DOMAIN-SUFFIX: 68410
+# UPDATED: 2021-10-15 02:08:28
+# DOMAIN-SUFFIX: 68413
 # USER-AGENT: 32
 # DOMAIN: 83
 # IP-CIDR: 14
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 68553
+# TOTAL: 68556
 265.com
 2mdn.net
 adservice.google.com
@@ -11669,6 +11669,9 @@ www4-static.gog-statics.com
 .bilibiliyoo.com
 .bilicdn1.com
 .bilicdn2.com
+.bilicdn3.com
+.bilicdn4.com
+.bilicdn5.com
 .bilicraft.com
 .biligame.com
 .biligame.net
