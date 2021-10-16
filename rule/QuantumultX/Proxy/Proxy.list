@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-14 02:12:15
+# UPDATED: 2021-10-17 02:08:07
 # HOST: 49
-# HOST-SUFFIX: 33605
+# HOST-SUFFIX: 33608
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 33785
+# TOTAL: 33788
 HOST,amp.akamaized.net,Proxy
 HOST,api-p.videomarket.jp,Proxy
 HOST,apple.com.akadns.net,Proxy
@@ -749,6 +749,7 @@ HOST-SUFFIX,201you.me,Proxy
 HOST-SUFFIX,20206003.com,Proxy
 HOST-SUFFIX,20206006.com,Proxy
 HOST-SUFFIX,2020loseweight.lun-cheng.com,Proxy
+HOST-SUFFIX,2021hkcharter.com,Proxy
 HOST-SUFFIX,203186077128.static.ctinets.com,Proxy
 HOST-SUFFIX,2047.name,Proxy
 HOST-SUFFIX,2049bbs.xyz,Proxy
@@ -6003,6 +6004,7 @@ HOST-SUFFIX,bookbao8.com,Proxy
 HOST-SUFFIX,bookclubcorner.com,Proxy
 HOST-SUFFIX,bookclubgirl.com,Proxy
 HOST-SUFFIX,bookdepository.co.uk,Proxy
+HOST-SUFFIX,bookdepository.com,Proxy
 HOST-SUFFIX,bookepub.com,Proxy
 HOST-SUFFIX,bookinh.com.br,Proxy
 HOST-SUFFIX,booklive.jp,Proxy
@@ -12567,6 +12569,7 @@ HOST-SUFFIX,gooddaychicago.com,Proxy
 HOST-SUFFIX,gooddns.info,Proxy
 HOST-SUFFIX,gooddns.xyz,Proxy
 HOST-SUFFIX,goodhands,Proxy
+HOST-SUFFIX,goodhope.school,Proxy
 HOST-SUFFIX,goodnews.good-tutor.net,Proxy
 HOST-SUFFIX,goodreaders.com,Proxy
 HOST-SUFFIX,goodreads.com,Proxy

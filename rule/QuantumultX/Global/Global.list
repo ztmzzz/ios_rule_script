@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-14 02:12:15
+# UPDATED: 2021-10-17 02:08:07
 # HOST: 53
-# HOST-SUFFIX: 33594
+# HOST-SUFFIX: 33597
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 129
 # IP6-CIDR: 4
-# TOTAL: 33869
+# TOTAL: 33872
 HOST,amp.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,apple.com.akadns.net,Global
@@ -752,6 +752,7 @@ HOST-SUFFIX,201you.me,Global
 HOST-SUFFIX,20206003.com,Global
 HOST-SUFFIX,20206006.com,Global
 HOST-SUFFIX,2020loseweight.lun-cheng.com,Global
+HOST-SUFFIX,2021hkcharter.com,Global
 HOST-SUFFIX,203186077128.static.ctinets.com,Global
 HOST-SUFFIX,2047.name,Global
 HOST-SUFFIX,2049bbs.xyz,Global
@@ -6003,6 +6004,7 @@ HOST-SUFFIX,bookbao8.com,Global
 HOST-SUFFIX,bookclubcorner.com,Global
 HOST-SUFFIX,bookclubgirl.com,Global
 HOST-SUFFIX,bookdepository.co.uk,Global
+HOST-SUFFIX,bookdepository.com,Global
 HOST-SUFFIX,bookepub.com,Global
 HOST-SUFFIX,bookinh.com.br,Global
 HOST-SUFFIX,booklive.jp,Global
@@ -12570,6 +12572,7 @@ HOST-SUFFIX,gooddaychicago.com,Global
 HOST-SUFFIX,gooddns.info,Global
 HOST-SUFFIX,gooddns.xyz,Global
 HOST-SUFFIX,goodhands,Global
+HOST-SUFFIX,goodhope.school,Global
 HOST-SUFFIX,goodnews.good-tutor.net,Global
 HOST-SUFFIX,goodreaders.com,Global
 HOST-SUFFIX,goodreads.com,Global

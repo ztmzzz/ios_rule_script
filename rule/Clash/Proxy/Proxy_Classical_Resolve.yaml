@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-14 02:12:17
+# UPDATED: 2021-10-17 02:08:08
 # DOMAIN: 49
-# DOMAIN-SUFFIX: 33605
+# DOMAIN-SUFFIX: 33608
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33774
+# TOTAL: 33777
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,api-p.videomarket.jp
@@ -749,6 +749,7 @@ payload:
   - DOMAIN-SUFFIX,20206003.com
   - DOMAIN-SUFFIX,20206006.com
   - DOMAIN-SUFFIX,2020loseweight.lun-cheng.com
+  - DOMAIN-SUFFIX,2021hkcharter.com
   - DOMAIN-SUFFIX,203186077128.static.ctinets.com
   - DOMAIN-SUFFIX,2047.name
   - DOMAIN-SUFFIX,2049bbs.xyz
@@ -6003,6 +6004,7 @@ payload:
   - DOMAIN-SUFFIX,bookclubcorner.com
   - DOMAIN-SUFFIX,bookclubgirl.com
   - DOMAIN-SUFFIX,bookdepository.co.uk
+  - DOMAIN-SUFFIX,bookdepository.com
   - DOMAIN-SUFFIX,bookepub.com
   - DOMAIN-SUFFIX,bookinh.com.br
   - DOMAIN-SUFFIX,booklive.jp
@@ -12567,6 +12569,7 @@ payload:
   - DOMAIN-SUFFIX,gooddns.info
   - DOMAIN-SUFFIX,gooddns.xyz
   - DOMAIN-SUFFIX,goodhands
+  - DOMAIN-SUFFIX,goodhope.school
   - DOMAIN-SUFFIX,goodnews.good-tutor.net
   - DOMAIN-SUFFIX,goodreaders.com
   - DOMAIN-SUFFIX,goodreads.com

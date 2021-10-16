@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-14 02:12:17
+# UPDATED: 2021-10-17 02:08:09
 # DOMAIN: 53
-# DOMAIN-SUFFIX: 33594
+# DOMAIN-SUFFIX: 33597
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33822
+# TOTAL: 33825
 payload:
   - 'amp.akamaized.net'
   - 'api-p.videomarket.jp'
@@ -753,6 +753,7 @@ payload:
   - '.20206003.com'
   - '.20206006.com'
   - '.2020loseweight.lun-cheng.com'
+  - '.2021hkcharter.com'
   - '.203186077128.static.ctinets.com'
   - '.2047.name'
   - '.2049bbs.xyz'
@@ -6004,6 +6005,7 @@ payload:
   - '.bookclubcorner.com'
   - '.bookclubgirl.com'
   - '.bookdepository.co.uk'
+  - '.bookdepository.com'
   - '.bookepub.com'
   - '.bookinh.com.br'
   - '.booklive.jp'
@@ -12571,6 +12573,7 @@ payload:
   - '.gooddns.info'
   - '.gooddns.xyz'
   - '.goodhands'
+  - '.goodhope.school'
   - '.goodnews.good-tutor.net'
   - '.goodreaders.com'
   - '.goodreads.com'

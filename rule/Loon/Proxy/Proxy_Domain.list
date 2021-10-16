@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-14 02:12:16
+# UPDATED: 2021-10-17 02:08:08
 # DOMAIN: 49
-# DOMAIN-SUFFIX: 33605
+# DOMAIN-SUFFIX: 33608
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 33785
+# TOTAL: 33788
 amp.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
@@ -749,6 +749,7 @@ www-cdn.icloud.com.akadns.net
 .20206003.com
 .20206006.com
 .2020loseweight.lun-cheng.com
+.2021hkcharter.com
 .203186077128.static.ctinets.com
 .2047.name
 .2049bbs.xyz
@@ -6003,6 +6004,7 @@ www-cdn.icloud.com.akadns.net
 .bookclubcorner.com
 .bookclubgirl.com
 .bookdepository.co.uk
+.bookdepository.com
 .bookepub.com
 .bookinh.com.br
 .booklive.jp
@@ -12567,6 +12569,7 @@ www-cdn.icloud.com.akadns.net
 .gooddns.info
 .gooddns.xyz
 .goodhands
+.goodhope.school
 .goodnews.good-tutor.net
 .goodreaders.com
 .goodreads.com
