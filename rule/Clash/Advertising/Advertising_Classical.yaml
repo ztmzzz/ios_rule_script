@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-18 02:07:44
-# DOMAIN: 20820
-# DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 53707
+# UPDATED: 2021-10-19 02:08:42
+# DOMAIN: 20819
+# DOMAIN-KEYWORD: 87
+# DOMAIN-SUFFIX: 53706
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 74869
+# TOTAL: 74866
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -184,6 +184,7 @@ payload:
   - DOMAIN,247lyrics.com
   - DOMAIN,247media.com
   - DOMAIN,247playz.com
+  - DOMAIN,247teencash.net
   - DOMAIN,247view.net
   - DOMAIN,24hf.inq.com
   - DOMAIN,24hf.touchcommerce.com
@@ -3352,7 +3353,6 @@ payload:
   - DOMAIN,asiabizconsult.com
   - DOMAIN,asianmeals.com
   - DOMAIN,asiantraffic.net
-  - DOMAIN,asilteknik.net
   - DOMAIN,asiminst.com
   - DOMAIN,asinglewomanmovie.com
   - DOMAIN,ask.webatall.com
@@ -3480,6 +3480,7 @@ payload:
   - DOMAIN,avast-downloads.com
   - DOMAIN,avazunativeads.com
   - DOMAIN,aveprize.com
+  - DOMAIN,averoconnector.com
   - DOMAIN,aviamexpress.com
   - DOMAIN,aviatordiscs.com
   - DOMAIN,avidnewssource.com
@@ -5839,7 +5840,6 @@ payload:
   - DOMAIN,config.unityads.unitychina.cn
   - DOMAIN,config.youzu.com
   - DOMAIN,confirmit.com
-  - DOMAIN,conflibred.co
   - DOMAIN,confortrans.com
   - DOMAIN,congchuzs.com
   - DOMAIN,congnghevienthong.com
@@ -6109,7 +6109,6 @@ payload:
   - DOMAIN,crazypopups.com
   - DOMAIN,crazyprotocol.com
   - DOMAIN,crazyshare.net
-  - DOMAIN,creafi-online-media.com
   - DOMAIN,creandolibertad.net
   - DOMAIN,create.lidstatic.com
   - DOMAIN,creative.blis.com
@@ -8703,7 +8702,6 @@ payload:
   - DOMAIN,games.cityads.com
   - DOMAIN,games.movies-mania.com
   - DOMAIN,games.superappbox.com
-  - DOMAIN,gamesaimbot.com
   - DOMAIN,gamesalty.com
   - DOMAIN,gamescheat24.com
   - DOMAIN,gamescrack.org
@@ -9496,7 +9494,6 @@ payload:
   - DOMAIN,hackprivate.com
   - DOMAIN,hackreleases.com
   - DOMAIN,hackrobot.net
-  - DOMAIN,hacks-box.com
   - DOMAIN,hacks-house.com
   - DOMAIN,hacks-land.net
   - DOMAIN,hacks4apps.com
@@ -11181,6 +11178,7 @@ payload:
   - DOMAIN,konnectapt.com
   - DOMAIN,kont-news.com
   - DOMAIN,kontil231.000webhostapp.com
+  - DOMAIN,kopkarbehaes.com
   - DOMAIN,koreanwithkevin.com
   - DOMAIN,koreasafety.com
   - DOMAIN,korenizsemi.net
@@ -14997,7 +14995,6 @@ payload:
   - DOMAIN,pussyspace.com
   - DOMAIN,putlockermovie.net
   - DOMAIN,puzzlesgaming.com
-  - DOMAIN,pv.wantsfly.com
   - DOMAIN,pvbs.actonsoftware.com
   - DOMAIN,pvmultimedia.net
   - DOMAIN,pvranking.com
@@ -15038,6 +15035,7 @@ payload:
   - DOMAIN,qikdownloads.com
   - DOMAIN,qiluceo001.cn
   - DOMAIN,qinchengwh.com
+  - DOMAIN,qingdian12999.cn
   - DOMAIN,qinvaris.com
   - DOMAIN,qjttowndvet.com
   - DOMAIN,qmginteractive.com
@@ -20523,6 +20521,7 @@ payload:
   - DOMAIN,yinyuanhotel.net
   - DOMAIN,yiqisese.com
   - DOMAIN,yiren02.com
+  - DOMAIN,yixingim.com
   - DOMAIN,ymail-activate1.bugs3.com
   - DOMAIN,ymetrica.com
   - DOMAIN,yn.news-subscribe.com
@@ -66544,7 +66543,6 @@ payload:
   - DOMAIN-SUFFIX,thousandfixedlyyawn.com
   - DOMAIN-SUFFIX,thousandimplied.com
   - DOMAIN-SUFFIX,threat-analytics.com
-  - DOMAIN-SUFFIX,threatbook.cn
   - DOMAIN-SUFFIX,threecd.name
   - DOMAIN-SUFFIX,thricemodestsuffix.com
   - DOMAIN-SUFFIX,thrillingholesantarctic.com
@@ -74557,7 +74555,6 @@ payload:
   - DOMAIN-KEYWORD,advert
   - DOMAIN-KEYWORD,adwords
   - DOMAIN-KEYWORD,allyes
-  - DOMAIN-KEYWORD,analysis
   - DOMAIN-KEYWORD,analysys
   - DOMAIN-KEYWORD,analytics
   - DOMAIN-KEYWORD,applovin

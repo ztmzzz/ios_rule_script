@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-18 02:07:43
+# UPDATED: 2021-10-19 02:08:41
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20820
-# DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 53707
+# DOMAIN: 20819
+# DOMAIN-KEYWORD: 87
+# DOMAIN-SUFFIX: 53706
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 75170
+# TOTAL: 75167
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -185,6 +185,7 @@
 247lyrics.com
 247media.com
 247playz.com
+247teencash.net
 247view.net
 24hf.inq.com
 24hf.touchcommerce.com
@@ -3353,7 +3354,6 @@ asia.bm.traakr.com
 asiabizconsult.com
 asianmeals.com
 asiantraffic.net
-asilteknik.net
 asiminst.com
 asinglewomanmovie.com
 ask.webatall.com
@@ -3481,6 +3481,7 @@ avantgardesss.com
 avast-downloads.com
 avazunativeads.com
 aveprize.com
+averoconnector.com
 aviamexpress.com
 aviatordiscs.com
 avidnewssource.com
@@ -5840,7 +5841,6 @@ config.samqaicongen.com
 config.unityads.unitychina.cn
 config.youzu.com
 confirmit.com
-conflibred.co
 confortrans.com
 congchuzs.com
 congnghevienthong.com
@@ -6110,7 +6110,6 @@ crazyad.net
 crazypopups.com
 crazyprotocol.com
 crazyshare.net
-creafi-online-media.com
 creandolibertad.net
 create.lidstatic.com
 creative.blis.com
@@ -8704,7 +8703,6 @@ games-unlocked.com
 games.cityads.com
 games.movies-mania.com
 games.superappbox.com
-gamesaimbot.com
 gamesalty.com
 gamescheat24.com
 gamescrack.org
@@ -9497,7 +9495,6 @@ hackphat.com
 hackprivate.com
 hackreleases.com
 hackrobot.net
-hacks-box.com
 hacks-house.com
 hacks-land.net
 hacks4apps.com
@@ -11182,6 +11179,7 @@ konkursov.net
 konnectapt.com
 kont-news.com
 kontil231.000webhostapp.com
+kopkarbehaes.com
 koreanwithkevin.com
 koreasafety.com
 korenizsemi.net
@@ -14998,7 +14996,6 @@ pussysaga.com
 pussyspace.com
 putlockermovie.net
 puzzlesgaming.com
-pv.wantsfly.com
 pvbs.actonsoftware.com
 pvmultimedia.net
 pvranking.com
@@ -15039,6 +15036,7 @@ qgwazwmlx.com
 qikdownloads.com
 qiluceo001.cn
 qinchengwh.com
+qingdian12999.cn
 qinvaris.com
 qjttowndvet.com
 qmginteractive.com
@@ -20524,6 +20522,7 @@ yinputech.com
 yinyuanhotel.net
 yiqisese.com
 yiren02.com
+yixingim.com
 ymail-activate1.bugs3.com
 ymetrica.com
 yn.news-subscribe.com
@@ -66545,7 +66544,6 @@ zzz.clickbank.net
 .thousandfixedlyyawn.com
 .thousandimplied.com
 .threat-analytics.com
-.threatbook.cn
 .threecd.name
 .thricemodestsuffix.com
 .thrillingholesantarctic.com

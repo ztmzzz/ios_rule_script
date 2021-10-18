@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-18 02:07:44
-# DOMAIN: 20820
-# DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 53707
+# UPDATED: 2021-10-19 02:08:42
+# DOMAIN: 20819
+# DOMAIN-KEYWORD: 87
+# DOMAIN-SUFFIX: 53706
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 74869
+# TOTAL: 74866
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -184,6 +184,7 @@ payload:
   - '247lyrics.com'
   - '247media.com'
   - '247playz.com'
+  - '247teencash.net'
   - '247view.net'
   - '24hf.inq.com'
   - '24hf.touchcommerce.com'
@@ -3352,7 +3353,6 @@ payload:
   - 'asiabizconsult.com'
   - 'asianmeals.com'
   - 'asiantraffic.net'
-  - 'asilteknik.net'
   - 'asiminst.com'
   - 'asinglewomanmovie.com'
   - 'ask.webatall.com'
@@ -3480,6 +3480,7 @@ payload:
   - 'avast-downloads.com'
   - 'avazunativeads.com'
   - 'aveprize.com'
+  - 'averoconnector.com'
   - 'aviamexpress.com'
   - 'aviatordiscs.com'
   - 'avidnewssource.com'
@@ -5839,7 +5840,6 @@ payload:
   - 'config.unityads.unitychina.cn'
   - 'config.youzu.com'
   - 'confirmit.com'
-  - 'conflibred.co'
   - 'confortrans.com'
   - 'congchuzs.com'
   - 'congnghevienthong.com'
@@ -6109,7 +6109,6 @@ payload:
   - 'crazypopups.com'
   - 'crazyprotocol.com'
   - 'crazyshare.net'
-  - 'creafi-online-media.com'
   - 'creandolibertad.net'
   - 'create.lidstatic.com'
   - 'creative.blis.com'
@@ -8703,7 +8702,6 @@ payload:
   - 'games.cityads.com'
   - 'games.movies-mania.com'
   - 'games.superappbox.com'
-  - 'gamesaimbot.com'
   - 'gamesalty.com'
   - 'gamescheat24.com'
   - 'gamescrack.org'
@@ -9496,7 +9494,6 @@ payload:
   - 'hackprivate.com'
   - 'hackreleases.com'
   - 'hackrobot.net'
-  - 'hacks-box.com'
   - 'hacks-house.com'
   - 'hacks-land.net'
   - 'hacks4apps.com'
@@ -11181,6 +11178,7 @@ payload:
   - 'konnectapt.com'
   - 'kont-news.com'
   - 'kontil231.000webhostapp.com'
+  - 'kopkarbehaes.com'
   - 'koreanwithkevin.com'
   - 'koreasafety.com'
   - 'korenizsemi.net'
@@ -14997,7 +14995,6 @@ payload:
   - 'pussyspace.com'
   - 'putlockermovie.net'
   - 'puzzlesgaming.com'
-  - 'pv.wantsfly.com'
   - 'pvbs.actonsoftware.com'
   - 'pvmultimedia.net'
   - 'pvranking.com'
@@ -15038,6 +15035,7 @@ payload:
   - 'qikdownloads.com'
   - 'qiluceo001.cn'
   - 'qinchengwh.com'
+  - 'qingdian12999.cn'
   - 'qinvaris.com'
   - 'qjttowndvet.com'
   - 'qmginteractive.com'
@@ -20523,6 +20521,7 @@ payload:
   - 'yinyuanhotel.net'
   - 'yiqisese.com'
   - 'yiren02.com'
+  - 'yixingim.com'
   - 'ymail-activate1.bugs3.com'
   - 'ymetrica.com'
   - 'yn.news-subscribe.com'
@@ -66544,7 +66543,6 @@ payload:
   - '.thousandfixedlyyawn.com'
   - '.thousandimplied.com'
   - '.threat-analytics.com'
-  - '.threatbook.cn'
   - '.threecd.name'
   - '.thricemodestsuffix.com'
   - '.thrillingholesantarctic.com'

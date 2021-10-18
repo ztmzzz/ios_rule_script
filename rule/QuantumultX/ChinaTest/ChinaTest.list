@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-18 02:07:43
-# HOST-SUFFIX: 68343
+# UPDATED: 2021-10-19 02:08:41
+# HOST-SUFFIX: 68344
 # USER-AGENT: 32
 # HOST: 83
 # IP-CIDR: 14
 # HOST-KEYWORD: 10
 # IP6-CIDR: 4
-# TOTAL: 68486
+# TOTAL: 68487
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -42246,6 +42246,7 @@ HOST-SUFFIX,natertech.com,ChinaTest
 HOST-SUFFIX,nationalchip.com,ChinaTest
 HOST-SUFFIX,nationsky.com,ChinaTest
 HOST-SUFFIX,nationstech.com,ChinaTest
+HOST-SUFFIX,nattest-china.com,ChinaTest
 HOST-SUFFIX,naturali.io,ChinaTest
 HOST-SUFFIX,naturallyariana.com,ChinaTest
 HOST-SUFFIX,nature-museum.net,ChinaTest

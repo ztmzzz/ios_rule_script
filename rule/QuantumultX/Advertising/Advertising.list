@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-18 02:07:43
-# HOST: 20820
-# HOST-KEYWORD: 88
-# HOST-SUFFIX: 53707
+# UPDATED: 2021-10-19 02:08:41
+# HOST: 20819
+# HOST-KEYWORD: 87
+# HOST-SUFFIX: 53706
 # IP-CIDR: 253
 # IP6-CIDR: 1
-# TOTAL: 74869
+# TOTAL: 74866
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -183,6 +183,7 @@ HOST,247gamerz.com,Advertising
 HOST,247lyrics.com,Advertising
 HOST,247media.com,Advertising
 HOST,247playz.com,Advertising
+HOST,247teencash.net,Advertising
 HOST,247view.net,Advertising
 HOST,24hf.inq.com,Advertising
 HOST,24hf.touchcommerce.com,Advertising
@@ -3351,7 +3352,6 @@ HOST,asia.bm.traakr.com,Advertising
 HOST,asiabizconsult.com,Advertising
 HOST,asianmeals.com,Advertising
 HOST,asiantraffic.net,Advertising
-HOST,asilteknik.net,Advertising
 HOST,asiminst.com,Advertising
 HOST,asinglewomanmovie.com,Advertising
 HOST,ask.webatall.com,Advertising
@@ -3479,6 +3479,7 @@ HOST,avantgardesss.com,Advertising
 HOST,avast-downloads.com,Advertising
 HOST,avazunativeads.com,Advertising
 HOST,aveprize.com,Advertising
+HOST,averoconnector.com,Advertising
 HOST,aviamexpress.com,Advertising
 HOST,aviatordiscs.com,Advertising
 HOST,avidnewssource.com,Advertising
@@ -5838,7 +5839,6 @@ HOST,config.samqaicongen.com,Advertising
 HOST,config.unityads.unitychina.cn,Advertising
 HOST,config.youzu.com,Advertising
 HOST,confirmit.com,Advertising
-HOST,conflibred.co,Advertising
 HOST,confortrans.com,Advertising
 HOST,congchuzs.com,Advertising
 HOST,congnghevienthong.com,Advertising
@@ -6108,7 +6108,6 @@ HOST,crazyad.net,Advertising
 HOST,crazypopups.com,Advertising
 HOST,crazyprotocol.com,Advertising
 HOST,crazyshare.net,Advertising
-HOST,creafi-online-media.com,Advertising
 HOST,creandolibertad.net,Advertising
 HOST,create.lidstatic.com,Advertising
 HOST,creative.blis.com,Advertising
@@ -8702,7 +8701,6 @@ HOST,games-unlocked.com,Advertising
 HOST,games.cityads.com,Advertising
 HOST,games.movies-mania.com,Advertising
 HOST,games.superappbox.com,Advertising
-HOST,gamesaimbot.com,Advertising
 HOST,gamesalty.com,Advertising
 HOST,gamescheat24.com,Advertising
 HOST,gamescrack.org,Advertising
@@ -9495,7 +9493,6 @@ HOST,hackphat.com,Advertising
 HOST,hackprivate.com,Advertising
 HOST,hackreleases.com,Advertising
 HOST,hackrobot.net,Advertising
-HOST,hacks-box.com,Advertising
 HOST,hacks-house.com,Advertising
 HOST,hacks-land.net,Advertising
 HOST,hacks4apps.com,Advertising
@@ -11180,6 +11177,7 @@ HOST,konkursov.net,Advertising
 HOST,konnectapt.com,Advertising
 HOST,kont-news.com,Advertising
 HOST,kontil231.000webhostapp.com,Advertising
+HOST,kopkarbehaes.com,Advertising
 HOST,koreanwithkevin.com,Advertising
 HOST,koreasafety.com,Advertising
 HOST,korenizsemi.net,Advertising
@@ -14996,7 +14994,6 @@ HOST,pussysaga.com,Advertising
 HOST,pussyspace.com,Advertising
 HOST,putlockermovie.net,Advertising
 HOST,puzzlesgaming.com,Advertising
-HOST,pv.wantsfly.com,Advertising
 HOST,pvbs.actonsoftware.com,Advertising
 HOST,pvmultimedia.net,Advertising
 HOST,pvranking.com,Advertising
@@ -15037,6 +15034,7 @@ HOST,qgwazwmlx.com,Advertising
 HOST,qikdownloads.com,Advertising
 HOST,qiluceo001.cn,Advertising
 HOST,qinchengwh.com,Advertising
+HOST,qingdian12999.cn,Advertising
 HOST,qinvaris.com,Advertising
 HOST,qjttowndvet.com,Advertising
 HOST,qmginteractive.com,Advertising
@@ -20522,6 +20520,7 @@ HOST,yinputech.com,Advertising
 HOST,yinyuanhotel.net,Advertising
 HOST,yiqisese.com,Advertising
 HOST,yiren02.com,Advertising
+HOST,yixingim.com,Advertising
 HOST,ymail-activate1.bugs3.com,Advertising
 HOST,ymetrica.com,Advertising
 HOST,yn.news-subscribe.com,Advertising
@@ -66543,7 +66542,6 @@ HOST-SUFFIX,thoughuttered.com,Advertising
 HOST-SUFFIX,thousandfixedlyyawn.com,Advertising
 HOST-SUFFIX,thousandimplied.com,Advertising
 HOST-SUFFIX,threat-analytics.com,Advertising
-HOST-SUFFIX,threatbook.cn,Advertising
 HOST-SUFFIX,threecd.name,Advertising
 HOST-SUFFIX,thricemodestsuffix.com,Advertising
 HOST-SUFFIX,thrillingholesantarctic.com,Advertising
@@ -74556,7 +74554,6 @@ HOST-KEYWORD,adsystem,Advertising
 HOST-KEYWORD,advert,Advertising
 HOST-KEYWORD,adwords,Advertising
 HOST-KEYWORD,allyes,Advertising
-HOST-KEYWORD,analysis,Advertising
 HOST-KEYWORD,analysys,Advertising
 HOST-KEYWORD,analytics,Advertising
 HOST-KEYWORD,applovin,Advertising
