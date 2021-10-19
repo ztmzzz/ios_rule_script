@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-17 02:08:09
-# DOMAIN: 49
-# DOMAIN-SUFFIX: 33608
+# UPDATED: 2021-10-20 02:09:27
+# DOMAIN: 50
+# DOMAIN-SUFFIX: 33627
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
-# TOTAL: 33785
+# TOTAL: 33805
 amp.akamaized.net
 api-p.videomarket.jp
 apple.com.akadns.net
@@ -19,6 +19,7 @@ bnetshopus.akamaized.net
 cdn77.scoreuniverse.com
 cisco.evergage.com
 courier-push-apple.com.akadns.net
+deutschewelle.h-cdn.com
 ds-linear-abematv.akamaized.net
 ds-vod-abematv.akamaized.net
 elib.maruzen.co.jp
@@ -3502,6 +3503,7 @@ www-cdn.icloud.com.akadns.net
 .analytictech.com
 .analyze-v.com
 .anandaminers.com
+.anandtech.com
 .anarchistan.com
 .anb.org
 .anchor.fm
@@ -4239,6 +4241,7 @@ www-cdn.icloud.com.akadns.net
 .auto.freev2.top
 .auto0391.com
 .autocity.us
+.autodesk.com
 .autodiscover.se.com
 .autodraw.com
 .autoklean.co.uk
@@ -4296,6 +4299,7 @@ www-cdn.icloud.com.akadns.net
 .avg.com
 .avgle.com
 .avgo78.org
+.avh.world
 .avhd101.com
 .avhot.cc
 .avi78.com
@@ -4331,6 +4335,9 @@ www-cdn.icloud.com.akadns.net
 .avsp2p.com
 .avstry.com
 .avt-global.com
+.avxde.org
+.avxhm.is
+.avxlive.icu
 .avyahoo.com
 .aw
 .aw15.iqi.asu.su
@@ -6473,6 +6480,7 @@ www-cdn.icloud.com.akadns.net
 .by.bnaz.org
 .byb8.app
 .bybeatsdre.com
+.bybit.com
 .bydrebeats.com
 .byedon.com
 .bynet.co.il
@@ -7776,6 +7784,7 @@ www-cdn.icloud.com.akadns.net
 .coinegg.com
 .coinex.com
 .coinf.com.mx
+.coingecko.com
 .coingi.com
 .coinmarketcap.com
 .coinonecore.com
@@ -11709,7 +11718,6 @@ www-cdn.icloud.com.akadns.net
 .ftiecla.com
 .ftopx.com
 .ftp.cc
-.ftp.com
 .ftp1.biz
 .ftpaccess.cc
 .ftpserver.biz
@@ -11721,6 +11729,7 @@ www-cdn.icloud.com.akadns.net
 .ftvgirls.com
 .ftvin.com
 .ftvnews.com.tw
+.ftx.com
 .fu2.club
 .fu37.gq
 .fu37.ml
@@ -14569,6 +14578,8 @@ www-cdn.icloud.com.akadns.net
 .image01.fenhao24.com
 .image1.fmgstatic.com
 .imageab.com
+.imagecurl.com
+.imagecurl.org
 .imagefap.com
 .imageflea.com
 .imagegals.com
@@ -14578,6 +14589,7 @@ www-cdn.icloud.com.akadns.net
 .images.apple.com.akadns.net
 .images.apple.com.edgekey.net.globalredir.akadns.net
 .images.chesscomfiles.com
+.imageshack.com
 .imageshack.us
 .imagespost.com
 .imagevenue.com
@@ -14603,6 +14615,7 @@ www-cdn.icloud.com.akadns.net
 .img1.hdmbox.com
 .imgbb.com
 .imgchili.net
+.imgcrl.org
 .imgflip.com
 .imgix.com
 .imgix.net
@@ -16368,6 +16381,7 @@ www-cdn.icloud.com.akadns.net
 .launchpadlibrarian.org
 .laurelvictoriagray.com
 .lausan.hk
+.lavteam.org
 .law.com
 .law.moj.gov.tw
 .lawofhongkong.com
@@ -16667,6 +16681,7 @@ www-cdn.icloud.com.akadns.net
 .lifesitenews.com
 .lifestylegroup.hk
 .lifetimeshares.com
+.lifewire.com
 .liftoff.io
 .lightboxcdn.com
 .lightbridge.com
@@ -17402,6 +17417,8 @@ www-cdn.icloud.com.akadns.net
 .manoramanews.com
 .manoramaonline.com
 .manosx.com
+.manoto1.tv
+.manototv.com
 .manporn.xxx
 .mansion.com
 .mansion88.com
@@ -23727,6 +23744,8 @@ www-cdn.icloud.com.akadns.net
 .sph7.djbcr68.com
 .sphard.com
 .spicevpn.com
+.spiceworks.com
+.spiceworksstatic.com
 .spideroak.com
 .spiegel
 .spiegel-online.de
@@ -24655,6 +24674,7 @@ www-cdn.icloud.com.akadns.net
 .techsmith.com
 .techspot.com
 .techstreet.com
+.techtimes.com
 .techviz.net
 .teck.in
 .teco-hk.org
@@ -27255,6 +27275,7 @@ www-cdn.icloud.com.akadns.net
 .waikeung.net
 .waikeung.org
 .wailaike.net
+.wainao.me
 .waiwaier.com
 .wal-mart.com
 .wal.co
@@ -28744,7 +28765,6 @@ www-cdn.icloud.com.akadns.net
 .www.australianchinesedaily.com.au
 .www.australiapost.com.au
 .www.autobild.de
-.www.autodesk.com
 .www.autospec.co.za
 .www.av2be.com
 .www.av539.com
@@ -29038,7 +29058,6 @@ www-cdn.icloud.com.akadns.net
 .www.bworldonline.com
 .www.bwtiyu.com
 .www.by111111.com
-.www.bybit.com
 .www.byc88.com
 .www.bytick.com
 .www.byto18.com
@@ -31954,7 +31973,6 @@ www-cdn.icloud.com.akadns.net
 .www.w88cn.com
 .www.w88live.com
 .www.w88top.com
-.www.wainao.me
 .www.waiyou8.wang
 .www.wallpaper.com.tw
 .www.wan-ifra.org
@@ -32746,6 +32764,7 @@ www-cdn.icloud.com.akadns.net
 .xs.domain888.pw
 .xs.freepac.pw
 .xs99.com
+.xsava.xyz
 .xscale.com
 .xsden.info
 .xsela.com
@@ -33385,6 +33404,7 @@ www-cdn.icloud.com.akadns.net
 .zarechnii.ru
 .zattinni.com.br
 .zattoo.com
+.zavat.pw
 .zavodjenje.com
 .zb.app
 .zb.com

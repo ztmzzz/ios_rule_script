@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-19 02:08:42
-# DOMAIN: 20819
+# UPDATED: 2021-10-20 02:09:26
+# DOMAIN: 20815
 # DOMAIN-KEYWORD: 87
 # DOMAIN-SUFFIX: 53706
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 74866
+# TOTAL: 74862
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -421,6 +421,7 @@ payload:
   - DOMAIN,75.news-subscribe.com
   - DOMAIN,750.stats.misstrends.com
   - DOMAIN,76.news-subscribe.com
+  - DOMAIN,777foryou.com
   - DOMAIN,778802.r.bat.bing.com
   - DOMAIN,77search.com
   - DOMAIN,79.news-subscribe.com
@@ -2278,7 +2279,6 @@ payload:
   - DOMAIN,adtrack.king.com
   - DOMAIN,adtrack.voicestar.com
   - DOMAIN,adtrader.com
-  - DOMAIN,adtradradservices.com
   - DOMAIN,adtriplex.com
   - DOMAIN,adult18games.com
   - DOMAIN,adultaccessnow.com
@@ -3002,7 +3002,6 @@ payload:
   - DOMAIN,api.actonsoftware.com
   - DOMAIN,api.ad.intl.xiaomi.com
   - DOMAIN,api.ad.snappea.com
-  - DOMAIN,api.adintext.net
   - DOMAIN,api.adlure.net
   - DOMAIN,api.adrenalads.com
   - DOMAIN,api.ads.watchabc.go.com
@@ -3187,7 +3186,6 @@ payload:
   - DOMAIN,appcaptcha.com
   - DOMAIN,appcdn.tvpage.com
   - DOMAIN,appclick.net
-  - DOMAIN,appdatum.com
   - DOMAIN,appflood.com
   - DOMAIN,appgasstation.com
   - DOMAIN,apphackz.com
@@ -3353,6 +3351,7 @@ payload:
   - DOMAIN,asiabizconsult.com
   - DOMAIN,asianmeals.com
   - DOMAIN,asiantraffic.net
+  - DOMAIN,asilteknik.net
   - DOMAIN,asiminst.com
   - DOMAIN,asinglewomanmovie.com
   - DOMAIN,ask.webatall.com
@@ -4986,7 +4985,6 @@ payload:
   - DOMAIN,cdn.loginradius.com
   - DOMAIN,cdn.masoffer.net
   - DOMAIN,cdn.mediavoice.com
-  - DOMAIN,cdn.mega-tags.com
   - DOMAIN,cdn.mobivite.net
   - DOMAIN,cdn.ndparking.com
   - DOMAIN,cdn.nsimg.net
@@ -5231,7 +5229,6 @@ payload:
   - DOMAIN,chiem78.000webhostapp.com
   - DOMAIN,chikiwiwi.com
   - DOMAIN,childersgaragedoor.com
-  - DOMAIN,childrenofnepal.org
   - DOMAIN,chilloutaircond.com
   - DOMAIN,chilyregistrycleaner.com
   - DOMAIN,chim.netau.net
@@ -6800,6 +6797,7 @@ payload:
   - DOMAIN,djtflbt20bdde.cloudfront.net
   - DOMAIN,djugoogs.com
   - DOMAIN,djwf0dl2q9i99.cloudfront.net
+  - DOMAIN,djxmmh.xinhua800.cn
   - DOMAIN,dk2mvwe4uw0z3.cloudfront.net
   - DOMAIN,dk45agakx3yfl.cloudfront.net
   - DOMAIN,dk7rftbivnkgr.cloudfront.net
@@ -7054,6 +7052,7 @@ payload:
   - DOMAIN,drda5yf9kgz5p.cloudfront.net
   - DOMAIN,drdudeck.com
   - DOMAIN,drealvog.ddns.net
+  - DOMAIN,dream-file.com
   - DOMAIN,dream1well.com
   - DOMAIN,dreambigprintbig.com
   - DOMAIN,dreamhackz.com
@@ -7174,7 +7173,6 @@ payload:
   - DOMAIN,dynamicserving.com
   - DOMAIN,dynatrace.com
   - DOMAIN,dz2fz0bgyq9tn.cloudfront.net
-  - DOMAIN,dzbk.dhxctzx.com
   - DOMAIN,dzbx8qv1at614.cloudfront.net
   - DOMAIN,dzcx04lyk9hjp.cloudfront.net
   - DOMAIN,dzenastrology.com
@@ -8408,7 +8406,6 @@ payload:
   - DOMAIN,freeitunesgiftcards.net
   - DOMAIN,freekarmakoins.com
   - DOMAIN,freelanceroot.com
-  - DOMAIN,freelaptopnation.com
   - DOMAIN,freelaptopreward.com
   - DOMAIN,freeleaguecodes.com
   - DOMAIN,freelolcodes.com
@@ -8481,6 +8478,7 @@ payload:
   - DOMAIN,freewiipointsforever.com
   - DOMAIN,freewiipointsgen.com
   - DOMAIN,freewiiugamesiso.com
+  - DOMAIN,freewl.xinhua800.cn
   - DOMAIN,freewowtime.net
   - DOMAIN,freewsodownload.com
   - DOMAIN,freexblcode.com
@@ -9215,6 +9213,7 @@ payload:
   - DOMAIN,grafatorio.com
   - DOMAIN,graficasseryal.com
   - DOMAIN,grampreico.com
+  - DOMAIN,grand-ads.com
   - DOMAIN,grand-prix.cityads.com
   - DOMAIN,grandautogarage.com
   - DOMAIN,grandeveryday.com
@@ -9368,6 +9367,7 @@ payload:
   - DOMAIN,gumuscorap.com
   - DOMAIN,gumuskumyapi.com
   - DOMAIN,gun.vrfitnesscoach.com
+  - DOMAIN,gundamfactory.com
   - DOMAIN,gundersons.com
   - DOMAIN,guowaidiaocha.com
   - DOMAIN,guppymedia.com
@@ -9485,6 +9485,7 @@ payload:
   - DOMAIN,hackiosgames.com
   - DOMAIN,hackittoday.com
   - DOMAIN,hackjunkies.com
+  - DOMAIN,hacklizard.com
   - DOMAIN,hackmeout.net
   - DOMAIN,hackmobilegames.com
   - DOMAIN,hackmyapp.net
@@ -9872,6 +9873,7 @@ payload:
   - DOMAIN,hotchix.servepics.com
   - DOMAIN,hotdbase.com
   - DOMAIN,hotdeals360.com
+  - DOMAIN,hotel-web.cn
   - DOMAIN,hotelcenterlake.com
   - DOMAIN,hotelesestelar.com
   - DOMAIN,hotelmahalindia.com
@@ -11688,7 +11690,6 @@ payload:
   - DOMAIN,logica-info.com
   - DOMAIN,logicalastrology.com
   - DOMAIN,logidlink.000webhostapp.com
-  - DOMAIN,login-accountid.com
   - DOMAIN,login-blockchain.ddns.net
   - DOMAIN,login.gammaplatform.com
   - DOMAIN,login.ozlee.com
@@ -12284,7 +12285,6 @@ payload:
   - DOMAIN,meezhacks.net
   - DOMAIN,mega-cheat.net
   - DOMAIN,mega-gry.com
-  - DOMAIN,mega.vast.mega-tags.com
   - DOMAIN,megabestnews.net
   - DOMAIN,megaboxhd.com
   - DOMAIN,megacloudz.net
@@ -15847,7 +15847,6 @@ payload:
   - DOMAIN,sapynews.com
   - DOMAIN,sarahdaniella.com
   - DOMAIN,sarahmpetersonfoundation.org
-  - DOMAIN,sarahpalinhotpics.com
   - DOMAIN,sarahvalente.com
   - DOMAIN,sarapbeh.com
   - DOMAIN,sarayamarketing.com
@@ -16206,7 +16205,6 @@ payload:
   - DOMAIN,setupandcrack.com
   - DOMAIN,sevenartzpublicidad.com
   - DOMAIN,sevenhack.com
-  - DOMAIN,sevenstars7.com
   - DOMAIN,sewardweb.com
   - DOMAIN,sex-and-flirt.com
   - DOMAIN,sex-interactive.com
@@ -17484,7 +17482,6 @@ payload:
   - DOMAIN,sw1block.com
   - DOMAIN,sw3sydl.duoyi.com
   - DOMAIN,swanksoft.com
-  - DOMAIN,swapnlokhomes.com
   - DOMAIN,swarmjam.com
   - DOMAIN,swarmscape.com
   - DOMAIN,swartmodder.com
@@ -17957,7 +17954,6 @@ payload:
   - DOMAIN,therapeuterelationdaide.com
   - DOMAIN,therapistla.com
   - DOMAIN,therealryanralph.com
-  - DOMAIN,therichkids.com
   - DOMAIN,thermasteelinc.com
   - DOMAIN,thermopista.com
   - DOMAIN,theroamingjew.com

@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-19 02:08:42
+# UPDATED: 2021-10-20 02:09:25
 # DOMAIN: 14376
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13256
@@ -317,6 +317,7 @@ payload:
   - DOMAIN,4dsply.com
   - DOMAIN,4dtrk.com
   - DOMAIN,4exlkjnngs.com
+  - DOMAIN,4f2sm1y1ss.com
   - DOMAIN,4f6b2af479d337cf.com
   - DOMAIN,4fb0a3bf4a3d38.com
   - DOMAIN,4jpf0karrejn6yla.pro
@@ -2725,7 +2726,6 @@ payload:
   - DOMAIN,bliink.io
   - DOMAIN,blinkadr.com
   - DOMAIN,blinko.es
-  - DOMAIN,blisldgsqk.com
   - DOMAIN,bliss-systems-api.co.uk
   - DOMAIN,blockbreaker.io
   - DOMAIN,blocks.ginotrack.com
@@ -5484,7 +5484,6 @@ payload:
   - DOMAIN,foocheeb.net
   - DOMAIN,food5.net
   - DOMAIN,foodieblogroll.com
-  - DOMAIN,footar.com
   - DOMAIN,footnote.com
   - DOMAIN,footprintdns.com
   - DOMAIN,footprintlive.com
@@ -5991,6 +5990,7 @@ payload:
   - DOMAIN,grafzen.com
   - DOMAIN,graicmiw.com
   - DOMAIN,graivaik.com
+  - DOMAIN,grand-ads.com
   - DOMAIN,granify.com
   - DOMAIN,grapeshot.co.uk
   - DOMAIN,grapheffect.com
@@ -6473,6 +6473,7 @@ payload:
   - DOMAIN,i-stats.com
   - DOMAIN,i.bestcontentfare.top
   - DOMAIN,i.gdt.qq.com
+  - DOMAIN,i.luyongkang.top
   - DOMAIN,i.tddmp.com
   - DOMAIN,i.zzb6.cn
   - DOMAIN,i0s26ol9.com
@@ -8410,6 +8411,7 @@ payload:
   - DOMAIN,mtty.com
   - DOMAIN,mtvp05j.com
   - DOMAIN,muchritfakethen.info
+  - DOMAIN,mulanphone.cn
   - DOMAIN,multicounter.de
   - DOMAIN,multimater.com
   - DOMAIN,multiview.com
@@ -9426,7 +9428,6 @@ payload:
   - DOMAIN,photo.epowuxiao.cn
   - DOMAIN,photo.hhmyi.cn
   - DOMAIN,photo.jiaxiyuan.cn
-  - DOMAIN,photo.njlymyd.cn
   - DOMAIN,photographpan.com
   - DOMAIN,photorank.me
   - DOMAIN,photoscape.ch
@@ -11495,7 +11496,6 @@ payload:
   - DOMAIN,sofire.bdstatic.com
   - DOMAIN,soflopxl.com
   - DOMAIN,soft.jiegeng.com
-  - DOMAIN,soft4dle.com
   - DOMAIN,softonic-analytics.net
   - DOMAIN,softonicads.com
   - DOMAIN,softpopads.com
@@ -12456,6 +12456,7 @@ payload:
   - DOMAIN,trackedweb.net
   - DOMAIN,tracker.ai.xiaomi.com
   - DOMAIN,tracker.stats.in.th
+  - DOMAIN,tracker.tgbus.com
   - DOMAIN,trackertest.org
   - DOMAIN,trackfeed.com
   - DOMAIN,trackicollect.ibase.fr
@@ -13701,7 +13702,6 @@ payload:
   - DOMAIN,www.aerreravasi.com
   - DOMAIN,www.airsonett.se
   - DOMAIN,www.alphamedical02.fr
-  - DOMAIN,www.am0624.com
   - DOMAIN,www.angolotesti.it
   - DOMAIN,www.archigate.it
   - DOMAIN,www.atousoft.com

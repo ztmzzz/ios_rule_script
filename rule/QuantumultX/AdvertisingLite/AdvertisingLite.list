@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-19 02:08:41
+# UPDATED: 2021-10-20 02:09:24
 # HOST: 14376
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13256
@@ -316,6 +316,7 @@ HOST,4dsbanner.net,AdvertisingLite
 HOST,4dsply.com,AdvertisingLite
 HOST,4dtrk.com,AdvertisingLite
 HOST,4exlkjnngs.com,AdvertisingLite
+HOST,4f2sm1y1ss.com,AdvertisingLite
 HOST,4f6b2af479d337cf.com,AdvertisingLite
 HOST,4fb0a3bf4a3d38.com,AdvertisingLite
 HOST,4jpf0karrejn6yla.pro,AdvertisingLite
@@ -2724,7 +2725,6 @@ HOST,blamads.com,AdvertisingLite
 HOST,bliink.io,AdvertisingLite
 HOST,blinkadr.com,AdvertisingLite
 HOST,blinko.es,AdvertisingLite
-HOST,blisldgsqk.com,AdvertisingLite
 HOST,bliss-systems-api.co.uk,AdvertisingLite
 HOST,blockbreaker.io,AdvertisingLite
 HOST,blocks.ginotrack.com,AdvertisingLite
@@ -5483,7 +5483,6 @@ HOST,fonderredd.info,AdvertisingLite
 HOST,foocheeb.net,AdvertisingLite
 HOST,food5.net,AdvertisingLite
 HOST,foodieblogroll.com,AdvertisingLite
-HOST,footar.com,AdvertisingLite
 HOST,footnote.com,AdvertisingLite
 HOST,footprintdns.com,AdvertisingLite
 HOST,footprintlive.com,AdvertisingLite
@@ -5990,6 +5989,7 @@ HOST,graftaub.com,AdvertisingLite
 HOST,grafzen.com,AdvertisingLite
 HOST,graicmiw.com,AdvertisingLite
 HOST,graivaik.com,AdvertisingLite
+HOST,grand-ads.com,AdvertisingLite
 HOST,granify.com,AdvertisingLite
 HOST,grapeshot.co.uk,AdvertisingLite
 HOST,grapheffect.com,AdvertisingLite
@@ -6472,6 +6472,7 @@ HOST,hzzevwlmjji.com,AdvertisingLite
 HOST,i-stats.com,AdvertisingLite
 HOST,i.bestcontentfare.top,AdvertisingLite
 HOST,i.gdt.qq.com,AdvertisingLite
+HOST,i.luyongkang.top,AdvertisingLite
 HOST,i.tddmp.com,AdvertisingLite
 HOST,i.zzb6.cn,AdvertisingLite
 HOST,i0s26ol9.com,AdvertisingLite
@@ -8409,6 +8410,7 @@ HOST,mts.mansion.com,AdvertisingLite
 HOST,mtty.com,AdvertisingLite
 HOST,mtvp05j.com,AdvertisingLite
 HOST,muchritfakethen.info,AdvertisingLite
+HOST,mulanphone.cn,AdvertisingLite
 HOST,multicounter.de,AdvertisingLite
 HOST,multimater.com,AdvertisingLite
 HOST,multiview.com,AdvertisingLite
@@ -9425,7 +9427,6 @@ HOST,photo.domainrank.cn,AdvertisingLite
 HOST,photo.epowuxiao.cn,AdvertisingLite
 HOST,photo.hhmyi.cn,AdvertisingLite
 HOST,photo.jiaxiyuan.cn,AdvertisingLite
-HOST,photo.njlymyd.cn,AdvertisingLite
 HOST,photographpan.com,AdvertisingLite
 HOST,photorank.me,AdvertisingLite
 HOST,photoscape.ch,AdvertisingLite
@@ -11494,7 +11495,6 @@ HOST,sofire.baidu.com,AdvertisingLite
 HOST,sofire.bdstatic.com,AdvertisingLite
 HOST,soflopxl.com,AdvertisingLite
 HOST,soft.jiegeng.com,AdvertisingLite
-HOST,soft4dle.com,AdvertisingLite
 HOST,softonic-analytics.net,AdvertisingLite
 HOST,softonicads.com,AdvertisingLite
 HOST,softpopads.com,AdvertisingLite
@@ -12455,6 +12455,7 @@ HOST,trackedlink.net,AdvertisingLite
 HOST,trackedweb.net,AdvertisingLite
 HOST,tracker.ai.xiaomi.com,AdvertisingLite
 HOST,tracker.stats.in.th,AdvertisingLite
+HOST,tracker.tgbus.com,AdvertisingLite
 HOST,trackertest.org,AdvertisingLite
 HOST,trackfeed.com,AdvertisingLite
 HOST,trackicollect.ibase.fr,AdvertisingLite
@@ -13700,7 +13701,6 @@ HOST,www.advancesrl.eu,AdvertisingLite
 HOST,www.aerreravasi.com,AdvertisingLite
 HOST,www.airsonett.se,AdvertisingLite
 HOST,www.alphamedical02.fr,AdvertisingLite
-HOST,www.am0624.com,AdvertisingLite
 HOST,www.angolotesti.it,AdvertisingLite
 HOST,www.archigate.it,AdvertisingLite
 HOST,www.atousoft.com,AdvertisingLite

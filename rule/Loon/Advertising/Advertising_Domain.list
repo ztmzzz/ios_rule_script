@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-19 02:08:42
+# UPDATED: 2021-10-20 02:09:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20819
+# DOMAIN: 20815
 # DOMAIN-KEYWORD: 87
 # DOMAIN-SUFFIX: 53706
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 75167
+# TOTAL: 75163
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -422,6 +422,7 @@
 75.news-subscribe.com
 750.stats.misstrends.com
 76.news-subscribe.com
+777foryou.com
 778802.r.bat.bing.com
 77search.com
 79.news-subscribe.com
@@ -2279,7 +2280,6 @@ adtrack.cimedia.net
 adtrack.king.com
 adtrack.voicestar.com
 adtrader.com
-adtradradservices.com
 adtriplex.com
 adult18games.com
 adultaccessnow.com
@@ -3003,7 +3003,6 @@ api-mobi.soundcloud.com
 api.actonsoftware.com
 api.ad.intl.xiaomi.com
 api.ad.snappea.com
-api.adintext.net
 api.adlure.net
 api.adrenalads.com
 api.ads.watchabc.go.com
@@ -3188,7 +3187,6 @@ appboy-images.com
 appcaptcha.com
 appcdn.tvpage.com
 appclick.net
-appdatum.com
 appflood.com
 appgasstation.com
 apphackz.com
@@ -3354,6 +3352,7 @@ asia.bm.traakr.com
 asiabizconsult.com
 asianmeals.com
 asiantraffic.net
+asilteknik.net
 asiminst.com
 asinglewomanmovie.com
 ask.webatall.com
@@ -4987,7 +4986,6 @@ cdn.livefyre.com
 cdn.loginradius.com
 cdn.masoffer.net
 cdn.mediavoice.com
-cdn.mega-tags.com
 cdn.mobivite.net
 cdn.ndparking.com
 cdn.nsimg.net
@@ -5232,7 +5230,6 @@ chidsimp.com
 chiem78.000webhostapp.com
 chikiwiwi.com
 childersgaragedoor.com
-childrenofnepal.org
 chilloutaircond.com
 chilyregistrycleaner.com
 chim.netau.net
@@ -6801,6 +6798,7 @@ djmikeykay.com
 djtflbt20bdde.cloudfront.net
 djugoogs.com
 djwf0dl2q9i99.cloudfront.net
+djxmmh.xinhua800.cn
 dk2mvwe4uw0z3.cloudfront.net
 dk45agakx3yfl.cloudfront.net
 dk7rftbivnkgr.cloudfront.net
@@ -7055,6 +7053,7 @@ drchx.000webhostapp.com
 drda5yf9kgz5p.cloudfront.net
 drdudeck.com
 drealvog.ddns.net
+dream-file.com
 dream1well.com
 dreambigprintbig.com
 dreamhackz.com
@@ -7175,7 +7174,6 @@ dynamichomeinspections.net
 dynamicserving.com
 dynatrace.com
 dz2fz0bgyq9tn.cloudfront.net
-dzbk.dhxctzx.com
 dzbx8qv1at614.cloudfront.net
 dzcx04lyk9hjp.cloudfront.net
 dzenastrology.com
@@ -8409,7 +8407,6 @@ freeitunesforever.com
 freeitunesgiftcards.net
 freekarmakoins.com
 freelanceroot.com
-freelaptopnation.com
 freelaptopreward.com
 freeleaguecodes.com
 freelolcodes.com
@@ -8482,6 +8479,7 @@ freewebtown.com
 freewiipointsforever.com
 freewiipointsgen.com
 freewiiugamesiso.com
+freewl.xinhua800.cn
 freewowtime.net
 freewsodownload.com
 freexblcode.com
@@ -9216,6 +9214,7 @@ gracefulsock.com
 grafatorio.com
 graficasseryal.com
 grampreico.com
+grand-ads.com
 grand-prix.cityads.com
 grandautogarage.com
 grandeveryday.com
@@ -9369,6 +9368,7 @@ gulhanhukuk.com
 gumuscorap.com
 gumuskumyapi.com
 gun.vrfitnesscoach.com
+gundamfactory.com
 gundersons.com
 guowaidiaocha.com
 guppymedia.com
@@ -9486,6 +9486,7 @@ hackinstagram.net
 hackiosgames.com
 hackittoday.com
 hackjunkies.com
+hacklizard.com
 hackmeout.net
 hackmobilegames.com
 hackmyapp.net
@@ -9873,6 +9874,7 @@ hotchatdirect.com
 hotchix.servepics.com
 hotdbase.com
 hotdeals360.com
+hotel-web.cn
 hotelcenterlake.com
 hotelesestelar.com
 hotelmahalindia.com
@@ -11689,7 +11691,6 @@ logger.unsplash.com
 logica-info.com
 logicalastrology.com
 logidlink.000webhostapp.com
-login-accountid.com
 login-blockchain.ddns.net
 login.gammaplatform.com
 login.ozlee.com
@@ -12285,7 +12286,6 @@ meetups.unbounce.com
 meezhacks.net
 mega-cheat.net
 mega-gry.com
-mega.vast.mega-tags.com
 megabestnews.net
 megaboxhd.com
 megacloudz.net
@@ -15848,7 +15848,6 @@ saoboo.com
 sapynews.com
 sarahdaniella.com
 sarahmpetersonfoundation.org
-sarahpalinhotpics.com
 sarahvalente.com
 sarapbeh.com
 sarayamarketing.com
@@ -16207,7 +16206,6 @@ setup.advancedcleaner.com
 setupandcrack.com
 sevenartzpublicidad.com
 sevenhack.com
-sevenstars7.com
 sewardweb.com
 sex-and-flirt.com
 sex-interactive.com
@@ -17485,7 +17483,6 @@ svstyle.com
 sw1block.com
 sw3sydl.duoyi.com
 swanksoft.com
-swapnlokhomes.com
 swarmjam.com
 swarmscape.com
 swartmodder.com
@@ -17958,7 +17955,6 @@ thequiltmakersshoppe.com
 therapeuterelationdaide.com
 therapistla.com
 therealryanralph.com
-therichkids.com
 thermasteelinc.com
 thermopista.com
 theroamingjew.com
