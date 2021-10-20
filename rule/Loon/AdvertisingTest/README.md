@@ -18,15 +18,15 @@
 
 ## 规则统计
 
-总计规则：99559 条。
+总计规则：103989 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 15114 |
+| DOMAIN | 15102 |
 | DOMAIN-KEYWORD | 87 |
-| DOMAIN-SUFFIX | 83803 |
+| DOMAIN-SUFFIX | 88245 |
 | IP-CIDR | 253 |
 | IP-CIDR6 | 1 |
 | URL-REGEX | 301 |
@@ -90,6 +90,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Custom/ad-domains.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Custom/video-ad.list
+- https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/reject.txt
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 - https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt

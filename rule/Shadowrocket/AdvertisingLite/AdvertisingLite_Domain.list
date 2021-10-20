@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-20 02:09:27
+# UPDATED: 2021-10-21 02:09:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14376
+# DOMAIN: 14379
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13256
 # IP-CIDR: 158
 # URL-REGEX: 295
-# TOTAL: 28112
+# TOTAL: 28115
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -610,6 +610,7 @@ a013.com
 a0675c1160de6c6.com
 a06bbd98194c252.com
 a0c00.com
+a0food.top
 a1.firstgw.com
 a1.mingyihui.net
 a157ad075fcb34c.com
@@ -2147,7 +2148,6 @@ aspignitean.com
 asqpniwvxea.com
 asrety.com
 assampant.club
-asset.pagefair.net
 assetize.com
 assets.ckjr001.com
 assets.cntdy.mobi
@@ -2459,7 +2459,6 @@ basilic.io
 basketballbelieve.com
 baskettexture.com
 batch.com
-bathouph.net
 bauersagtnein.myeffect.net
 bavftcgoapga.com
 baynote.net
@@ -6612,7 +6611,6 @@ img.srxjz.cn
 img.uu1001.cn
 img.wusnz.cn
 img.xiwnu.cn
-img.zeruinong.com
 img001.com
 img1.g.pptv.com
 img1.mini.cache.wps.cn
@@ -7714,6 +7712,7 @@ luomanzhubao.cn
 luravius.com
 lushcrush.com
 luvcash.com
+luvcom.com
 luvnrybocrcgl.com
 luxadv.com
 luxbetaffiliates.com.au
@@ -8243,6 +8242,7 @@ mntzr11.net
 mntzrlt.net
 mo.baidu.com
 mo.bsxr.com.cn
+mo.grqf.com.cn
 mo.oneshouyou.cn
 mo.qitouch.cn
 mo.zdceaa.cn
@@ -9428,6 +9428,7 @@ photo.domainrank.cn
 photo.epowuxiao.cn
 photo.hhmyi.cn
 photo.jiaxiyuan.cn
+photo.njlymyd.cn
 photographpan.com
 photorank.me
 photoscape.ch
@@ -10516,6 +10517,7 @@ ringtonepartner.com
 rinsouxy.com
 riowrite.com
 ripost.services
+ripplead.com
 ritchelu.com
 ritzykey.com
 rivcash.com
@@ -12236,6 +12238,7 @@ thumbnail-galleries.net
 thurnflfant.com
 ti583.com
 tianfus.com
+tianhuicun.com.cn
 tianjinblg.com
 tianshu-x.gtimg.cn
 tibacta.com

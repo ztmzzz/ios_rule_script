@@ -13,14 +13,14 @@
 
 ## 规则统计
 
-总计规则：682 条。
+总计规则：683 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 3 |
-| HOST-SUFFIX | 666 |
+| HOST-SUFFIX | 667 |
 | HOST-KEYWORD | 8 |
 | IP-CIDR | 4 |
 | IP6-CIDR | 1 |
@@ -68,6 +68,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/GoogleSearch.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Google/GoogleVoice.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list
+- https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/google.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/google.txt
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Google/Google.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Google.list

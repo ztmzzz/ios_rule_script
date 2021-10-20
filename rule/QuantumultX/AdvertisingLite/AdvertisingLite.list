@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-20 02:09:24
-# HOST: 14376
+# UPDATED: 2021-10-21 02:09:33
+# HOST: 14379
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13256
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27818
+# TOTAL: 27821
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -609,6 +609,7 @@ HOST,a013.com,AdvertisingLite
 HOST,a0675c1160de6c6.com,AdvertisingLite
 HOST,a06bbd98194c252.com,AdvertisingLite
 HOST,a0c00.com,AdvertisingLite
+HOST,a0food.top,AdvertisingLite
 HOST,a1.firstgw.com,AdvertisingLite
 HOST,a1.mingyihui.net,AdvertisingLite
 HOST,a157ad075fcb34c.com,AdvertisingLite
@@ -2146,7 +2147,6 @@ HOST,aspignitean.com,AdvertisingLite
 HOST,asqpniwvxea.com,AdvertisingLite
 HOST,asrety.com,AdvertisingLite
 HOST,assampant.club,AdvertisingLite
-HOST,asset.pagefair.net,AdvertisingLite
 HOST,assetize.com,AdvertisingLite
 HOST,assets.ckjr001.com,AdvertisingLite
 HOST,assets.cntdy.mobi,AdvertisingLite
@@ -2458,7 +2458,6 @@ HOST,basilic.io,AdvertisingLite
 HOST,basketballbelieve.com,AdvertisingLite
 HOST,baskettexture.com,AdvertisingLite
 HOST,batch.com,AdvertisingLite
-HOST,bathouph.net,AdvertisingLite
 HOST,bauersagtnein.myeffect.net,AdvertisingLite
 HOST,bavftcgoapga.com,AdvertisingLite
 HOST,baynote.net,AdvertisingLite
@@ -6611,7 +6610,6 @@ HOST,img.srxjz.cn,AdvertisingLite
 HOST,img.uu1001.cn,AdvertisingLite
 HOST,img.wusnz.cn,AdvertisingLite
 HOST,img.xiwnu.cn,AdvertisingLite
-HOST,img.zeruinong.com,AdvertisingLite
 HOST,img001.com,AdvertisingLite
 HOST,img1.g.pptv.com,AdvertisingLite
 HOST,img1.mini.cache.wps.cn,AdvertisingLite
@@ -7713,6 +7711,7 @@ HOST,luomanzhubao.cn,AdvertisingLite
 HOST,luravius.com,AdvertisingLite
 HOST,lushcrush.com,AdvertisingLite
 HOST,luvcash.com,AdvertisingLite
+HOST,luvcom.com,AdvertisingLite
 HOST,luvnrybocrcgl.com,AdvertisingLite
 HOST,luxadv.com,AdvertisingLite
 HOST,luxbetaffiliates.com.au,AdvertisingLite
@@ -8242,6 +8241,7 @@ HOST,mntzr11.net,AdvertisingLite
 HOST,mntzrlt.net,AdvertisingLite
 HOST,mo.baidu.com,AdvertisingLite
 HOST,mo.bsxr.com.cn,AdvertisingLite
+HOST,mo.grqf.com.cn,AdvertisingLite
 HOST,mo.oneshouyou.cn,AdvertisingLite
 HOST,mo.qitouch.cn,AdvertisingLite
 HOST,mo.zdceaa.cn,AdvertisingLite
@@ -9427,6 +9427,7 @@ HOST,photo.domainrank.cn,AdvertisingLite
 HOST,photo.epowuxiao.cn,AdvertisingLite
 HOST,photo.hhmyi.cn,AdvertisingLite
 HOST,photo.jiaxiyuan.cn,AdvertisingLite
+HOST,photo.njlymyd.cn,AdvertisingLite
 HOST,photographpan.com,AdvertisingLite
 HOST,photorank.me,AdvertisingLite
 HOST,photoscape.ch,AdvertisingLite
@@ -10515,6 +10516,7 @@ HOST,ringtonepartner.com,AdvertisingLite
 HOST,rinsouxy.com,AdvertisingLite
 HOST,riowrite.com,AdvertisingLite
 HOST,ripost.services,AdvertisingLite
+HOST,ripplead.com,AdvertisingLite
 HOST,ritchelu.com,AdvertisingLite
 HOST,ritzykey.com,AdvertisingLite
 HOST,rivcash.com,AdvertisingLite
@@ -12235,6 +12237,7 @@ HOST,thumbnail-galleries.net,AdvertisingLite
 HOST,thurnflfant.com,AdvertisingLite
 HOST,ti583.com,AdvertisingLite
 HOST,tianfus.com,AdvertisingLite
+HOST,tianhuicun.com.cn,AdvertisingLite
 HOST,tianjinblg.com,AdvertisingLite
 HOST,tianshu-x.gtimg.cn,AdvertisingLite
 HOST,tibacta.com,AdvertisingLite
