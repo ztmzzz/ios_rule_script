@@ -8,16 +8,24 @@
 
 请通过我国(中华人民共和国)合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
+## MITM
+直连分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要使用MITM才能生效。
+
+程序已根据正则推导一份MITM的模块/复写/插件在当前目录中，推导结果可能存在冗余、遗漏或错误，仅供参考。
+
 ## 规则统计
 
-总计规则：68269 条。
+总计规则：2842 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 233 |
-| DOMAIN-SUFFIX | 68036 |
+| DOMAIN-SUFFIX | 2651 |
+| DOMAIN-KEYWORD | 1 |
+| DOMAIN | 184 |
+| URL-REGEX | 2 |
+| USER-AGENT | 4 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
@@ -27,9 +35,13 @@
 ### Shadowrocket 
 实时版：
 
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Direct/Direct.list
+
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Direct/Direct_Domain.list
 
 稳定版：
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Direct/Direct.list
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Direct/Direct_Domain.list
 
@@ -39,14 +51,45 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 ### 特别说明
 
+Direct.list 请使用RULE-SET。
+
 Direct_Domain.list 请使用DOMAIN-SET。
 
 两者必须同时使用。
 
 ## 子规则/排除规则
 
+当前分流规则，已包含以下子规则：
 
-当前分流规则，未包含其他子规则。
+- WhiteList
+
+除非特殊需求，否则不建议重复引用。
+
+当前分流规则，已排除以下规则：
+
+- AppleProxy
+
+- China
+
+- ChinaIP
+
+- ChinaIPs
+
+- ChinaIPsBGP
+
+- ChinaMedia
+
+- ChinaMobile
+
+- ChinaNews
+
+- ChinaTelecom
+
+- ChinaTest
+
+- ChinaUnicom
+
+- Proxy
 
 ## 数据来源
 
@@ -54,7 +97,12 @@ Direct_Domain.list 请使用DOMAIN-SET。
 
 如果你正在使用这些复写规则，建议不要与本项目的直连复写规则混合使用，以免造成规则重复。
 
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
+- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Unbreak.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

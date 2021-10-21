@@ -10,14 +10,16 @@
 
 ## 规则统计
 
-总计规则：68269 条。
+总计规则：2840 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| HOST | 233 |
-| HOST-SUFFIX | 68036 |
+| HOST-SUFFIX | 2651 |
+| HOST-KEYWORD | 1 |
+| HOST | 184 |
+| USER-AGENT | 4 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
@@ -39,8 +41,37 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 ## 子规则/排除规则
 
+当前分流规则，已包含以下子规则：
 
-当前分流规则，未包含其他子规则。
+- WhiteList
+
+除非特殊需求，否则不建议重复引用。
+
+当前分流规则，已排除以下规则：
+
+- AppleProxy
+
+- China
+
+- ChinaIP
+
+- ChinaIPs
+
+- ChinaIPsBGP
+
+- ChinaMedia
+
+- ChinaMobile
+
+- ChinaNews
+
+- ChinaTelecom
+
+- ChinaTest
+
+- ChinaUnicom
+
+- Proxy
 
 ## 数据来源
 
@@ -48,7 +79,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 如果你正在使用这些复写规则，建议不要与本项目的直连复写规则混合使用，以免造成规则重复。
 
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
+- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Unbreak.list
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。

@@ -54,6 +54,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 除非特殊需求，否则不建议重复引用。
 
+当前分流规则，已排除以下规则：
+
+- YouTube
+
+- YouTubeMusic
+
 ## 数据来源
 
 本项目的Google复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。
