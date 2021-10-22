@@ -13,15 +13,15 @@
 
 ## 规则统计
 
-总计规则：95528 条。
+总计规则：92446 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 15465 |
+| DOMAIN | 15035 |
 | DOMAIN-KEYWORD | 87 |
-| DOMAIN-SUFFIX | 79722 |
+| DOMAIN-SUFFIX | 77070 |
 | IP-CIDR | 253 |
 | IP-CIDR6 | 1 |
 ## 配置说明
@@ -74,6 +74,10 @@ Advertising_Classical.yaml 可以单独使用，其他规则必须同时使用�
 - Privacy
 
 除非特殊需求，否则不建议重复引用。
+
+当前分流规则，已排除以下规则：
+
+- Direct
 
 ## 数据来源
 
