@@ -1,16 +1,18 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-23 02:11:07
+# UPDATED: 2021-10-24 02:08:18
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 2579
+# DOMAIN-SUFFIX: 2582
 # DOMAIN-KEYWORD: 1
-# DOMAIN: 2
+# DOMAIN: 4
 # URL-REGEX: 2
 # USER-AGENT: 4
-# TOTAL: 2588
+# TOTAL: 2593
 app.adjust.com
 bdtj.tagtic.cn
+picanalysis.vivo.com.cn
+xivanalysis.com
 .00880880.com
 .0100.com
 .010jingpc.com
@@ -647,10 +649,12 @@ bdtj.tagtic.cn
 .coffeescript.org
 .coinclusion.org
 .comdy1youku.com
+.comhbilibili.com
 .comhpptv.com
 .comhsina.com
 .coml163.com
 .comlifeng.com
+.comliqiyi.com
 .comlqq.com
 .comltudou.com
 .comlyouku.com
@@ -658,6 +662,7 @@ bdtj.tagtic.cn
 .compressorpld.com
 .comsenzservice.com
 .comt56.com
+.comtiqiyi.com
 .comtletv.com
 .connectorsystems.com
 .consoleintegration.cdnetworks.com

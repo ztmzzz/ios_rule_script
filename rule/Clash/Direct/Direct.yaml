@@ -1,10 +1,10 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-23 02:11:08
-# DOMAIN-SUFFIX: 2579
+# UPDATED: 2021-10-24 02:08:19
+# DOMAIN-SUFFIX: 2582
 # DOMAIN-KEYWORD: 1
-# DOMAIN: 2
-# TOTAL: 2582
+# DOMAIN: 4
+# TOTAL: 2587
 payload:
   - DOMAIN-KEYWORD,wb_ad

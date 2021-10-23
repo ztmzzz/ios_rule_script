@@ -1,14 +1,16 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-23 02:11:06
-# HOST-SUFFIX: 2579
+# UPDATED: 2021-10-24 02:08:17
+# HOST-SUFFIX: 2582
 # HOST-KEYWORD: 1
-# HOST: 2
+# HOST: 4
 # USER-AGENT: 4
-# TOTAL: 2586
+# TOTAL: 2591
 HOST,app.adjust.com,Direct
 HOST,bdtj.tagtic.cn,Direct
+HOST,picanalysis.vivo.com.cn,Direct
+HOST,xivanalysis.com,Direct
 HOST-SUFFIX,00880880.com,Direct
 HOST-SUFFIX,0100.com,Direct
 HOST-SUFFIX,010jingpc.com,Direct
@@ -645,10 +647,12 @@ HOST-SUFFIX,coeffort.com,Direct
 HOST-SUFFIX,coffeescript.org,Direct
 HOST-SUFFIX,coinclusion.org,Direct
 HOST-SUFFIX,comdy1youku.com,Direct
+HOST-SUFFIX,comhbilibili.com,Direct
 HOST-SUFFIX,comhpptv.com,Direct
 HOST-SUFFIX,comhsina.com,Direct
 HOST-SUFFIX,coml163.com,Direct
 HOST-SUFFIX,comlifeng.com,Direct
+HOST-SUFFIX,comliqiyi.com,Direct
 HOST-SUFFIX,comlqq.com,Direct
 HOST-SUFFIX,comltudou.com,Direct
 HOST-SUFFIX,comlyouku.com,Direct
@@ -656,6 +660,7 @@ HOST-SUFFIX,commlzyw.com,Direct
 HOST-SUFFIX,compressorpld.com,Direct
 HOST-SUFFIX,comsenzservice.com,Direct
 HOST-SUFFIX,comt56.com,Direct
+HOST-SUFFIX,comtiqiyi.com,Direct
 HOST-SUFFIX,comtletv.com,Direct
 HOST-SUFFIX,connectorsystems.com,Direct
 HOST-SUFFIX,consoleintegration.cdnetworks.com,Direct

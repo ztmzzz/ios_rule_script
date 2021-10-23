@@ -1,7 +1,7 @@
 # NAME: WhiteList
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-23 02:11:06
+# UPDATED: 2021-10-24 02:08:17
 # TOTAL: 0
 HOST,ad.10010.com,WhiteList
 HOST,analytics.95516.com,WhiteList
@@ -14,9 +14,11 @@ HOST,log.mmstat.com,WhiteList
 HOST,msg.umeng.com,WhiteList
 HOST,msg.umengcloud.com,WhiteList
 HOST,origin-a.akamaihd.net,WhiteList
+HOST,picanalysis.vivo.com.cn,WhiteList
 HOST,pubads.g.doubleclick.net,WhiteList
 HOST,sycm.mmstat.com,WhiteList
 HOST,tracking.miui.com,WhiteList
+HOST,xivanalysis.com,WhiteList
 HOST-SUFFIX,dizhensubao.getui.com,WhiteList
 HOST-SUFFIX,f.video.weibocdn.com,WhiteList
 HOST-SUFFIX,fus.cdn.krcom.cn,WhiteList

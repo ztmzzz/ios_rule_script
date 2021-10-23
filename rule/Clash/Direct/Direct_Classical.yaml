@@ -1,14 +1,16 @@
 # NAME: Direct
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-23 02:11:08
-# DOMAIN-SUFFIX: 2579
+# UPDATED: 2021-10-24 02:08:19
+# DOMAIN-SUFFIX: 2582
 # DOMAIN-KEYWORD: 1
-# DOMAIN: 2
-# TOTAL: 2582
+# DOMAIN: 4
+# TOTAL: 2587
 payload:
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
+  - DOMAIN,picanalysis.vivo.com.cn
+  - DOMAIN,xivanalysis.com
   - DOMAIN-SUFFIX,00880880.com
   - DOMAIN-SUFFIX,0100.com
   - DOMAIN-SUFFIX,010jingpc.com
@@ -645,10 +647,12 @@ payload:
   - DOMAIN-SUFFIX,coffeescript.org
   - DOMAIN-SUFFIX,coinclusion.org
   - DOMAIN-SUFFIX,comdy1youku.com
+  - DOMAIN-SUFFIX,comhbilibili.com
   - DOMAIN-SUFFIX,comhpptv.com
   - DOMAIN-SUFFIX,comhsina.com
   - DOMAIN-SUFFIX,coml163.com
   - DOMAIN-SUFFIX,comlifeng.com
+  - DOMAIN-SUFFIX,comliqiyi.com
   - DOMAIN-SUFFIX,comlqq.com
   - DOMAIN-SUFFIX,comltudou.com
   - DOMAIN-SUFFIX,comlyouku.com
@@ -656,6 +660,7 @@ payload:
   - DOMAIN-SUFFIX,compressorpld.com
   - DOMAIN-SUFFIX,comsenzservice.com
   - DOMAIN-SUFFIX,comt56.com
+  - DOMAIN-SUFFIX,comtiqiyi.com
   - DOMAIN-SUFFIX,comtletv.com
   - DOMAIN-SUFFIX,connectorsystems.com
   - DOMAIN-SUFFIX,consoleintegration.cdnetworks.com
