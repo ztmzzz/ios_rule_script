@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-25 02:08:12
-# DOMAIN: 15060
+# UPDATED: 2021-10-26 02:08:35
+# DOMAIN: 15064
 # DOMAIN-KEYWORD: 87
-# DOMAIN-SUFFIX: 74915
+# DOMAIN-SUFFIX: 74929
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 90319
+# TOTAL: 90337
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -3253,6 +3253,7 @@ payload:
   - DOMAIN,cinemabio.com
   - DOMAIN,cinemaden.com
   - DOMAIN,cinemaedvd.com
+  - DOMAIN,cinemaxy.com
   - DOMAIN,cingualr.com
   - DOMAIN,cinyour.accountkit.com
   - DOMAIN,cioco-froll.com
@@ -5986,6 +5987,7 @@ payload:
   - DOMAIN,gen-ever.com
   - DOMAIN,gen2server.com
   - DOMAIN,general-catalog.net
+  - DOMAIN,generalbikes.com
   - DOMAIN,generalchemicalsupply.com
   - DOMAIN,generaldownload.com
   - DOMAIN,generalporn.org
@@ -6010,6 +6012,7 @@ payload:
   - DOMAIN,geoapi123.appspot.com
   - DOMAIN,geofence.sys.miui.com
   - DOMAIN,geogeniusindia.com
+  - DOMAIN,geogospeltroupe.com
   - DOMAIN,gepatit-info.top
   - DOMAIN,geraldgore.com
   - DOMAIN,gerardfetter.com
@@ -7071,7 +7074,6 @@ payload:
   - DOMAIN,image.beike188.com
   - DOMAIN,image201844.hostoi.com
   - DOMAIN,imageadnet.com
-  - DOMAIN,imagedoll.com
   - DOMAIN,imageegypt.com
   - DOMAIN,imagengraficaperu.com
   - DOMAIN,imagenpic.com
@@ -8473,6 +8475,7 @@ payload:
   - DOMAIN,malianury-grafiti.com
   - DOMAIN,maliva-mcs.byteoversea.com
   - DOMAIN,mall.vzcmall.com
+  - DOMAIN,mallorcash.com
   - DOMAIN,malware-scan.com
   - DOMAIN,mamasfm.com
   - DOMAIN,mamoapps.com
@@ -12254,6 +12257,7 @@ payload:
   - DOMAIN,ssl.xn--vqq79r59m.eu.org
   - DOMAIN,ssl3.adhost.com
   - DOMAIN,sslproxy-prod.adobedtm.com
+  - DOMAIN,ssmk360.com
   - DOMAIN,ssnkumarhatti.com
   - DOMAIN,sso.anbtr.com
   - DOMAIN,ssor.tribdss.com
@@ -12512,7 +12516,6 @@ payload:
   - DOMAIN,stra.hasmobi.net
   - DOMAIN,straightresults.com
   - DOMAIN,straighttalk.inq.com
-  - DOMAIN,strazcetech.com
   - DOMAIN,stream-tds.com
   - DOMAIN,stream.ezeedl.com
   - DOMAIN,stream.hdmoviefull.com
@@ -12707,6 +12710,7 @@ payload:
   - DOMAIN,szczesliwydzien.com
   - DOMAIN,szdamuzhi.com
   - DOMAIN,szinhaz.hu
+  - DOMAIN,sznm.com.cn
   - DOMAIN,sznxdqqvjgam.com
   - DOMAIN,szokinfo247.blogspot.com
   - DOMAIN,szwsesc.cn
@@ -14830,7 +14834,6 @@ payload:
   - DOMAIN,yescounter.com
   - DOMAIN,yesitisqqq.com
   - DOMAIN,yeukydrant.com
-  - DOMAIN,yiduaner.cn
   - DOMAIN,yihaotui.com
   - DOMAIN,yimingkennel.com
   - DOMAIN,yinmikbest.com
@@ -14955,6 +14958,7 @@ payload:
   - DOMAIN,zarenica.net
   - DOMAIN,zarobek4u.com
   - DOMAIN,zarobicpieniadze.com
+  - DOMAIN,zastenchivosti.net
   - DOMAIN,zavariushoponline.com
   - DOMAIN,zayhipbcxig.com
   - DOMAIN,zb.hyzjd.com
@@ -25827,6 +25831,7 @@ payload:
   - DOMAIN-SUFFIX,axbetb.com
   - DOMAIN-SUFFIX,axbetb2.com
   - DOMAIN-SUFFIX,axbxgg.com
+  - DOMAIN-SUFFIX,axcdt.cn
   - DOMAIN-SUFFIX,axcdy.cn
   - DOMAIN-SUFFIX,axecash.com
   - DOMAIN-SUFFIX,axeldivision.com
@@ -36316,6 +36321,7 @@ payload:
   - DOMAIN-SUFFIX,disparitypuppetfestivity.com
   - DOMAIN-SUFFIX,dispatcher.camera360.com
   - DOMAIN-SUFFIX,dispatcher.upmc.uc.cn
+  - DOMAIN-SUFFIX,dispatchunique.com
   - DOMAIN-SUFFIX,dispensablestranger.com
   - DOMAIN-SUFFIX,display.360totalsecurity.com
   - DOMAIN-SUFFIX,display.adhudong.com
@@ -44490,6 +44496,7 @@ payload:
   - DOMAIN-SUFFIX,guangsss1999.com
   - DOMAIN-SUFFIX,guangtui1999.com
   - DOMAIN-SUFFIX,guangweixinxi345.cn
+  - DOMAIN-SUFFIX,guangzhengtwo.top
   - DOMAIN-SUFFIX,guangzhuiyuan.com
   - DOMAIN-SUFFIX,guangzizai.com
   - DOMAIN-SUFFIX,guanjia.baidu.com
@@ -46056,6 +46063,7 @@ payload:
   - DOMAIN-SUFFIX,honghaotravel.com
   - DOMAIN-SUFFIX,hongjiaex.cn
   - DOMAIN-SUFFIX,hongjiujiaoyi.com
+  - DOMAIN-SUFFIX,hongruikt.com
   - DOMAIN-SUFFIX,hongshikai.com
   - DOMAIN-SUFFIX,hongtefm.com
   - DOMAIN-SUFFIX,hongwenge.com
@@ -46429,6 +46437,7 @@ payload:
   - DOMAIN-SUFFIX,huatakj.com
   - DOMAIN-SUFFIX,huatuo.qq.com
   - DOMAIN-SUFFIX,huatuo.weiyun.com
+  - DOMAIN-SUFFIX,huaxiaozhang.club
   - DOMAIN-SUFFIX,huaxinxunye.cn
   - DOMAIN-SUFFIX,huayancn.cn
   - DOMAIN-SUFFIX,huayange.com
@@ -46616,6 +46625,7 @@ payload:
   - DOMAIN-SUFFIX,hxadt.com
   - DOMAIN-SUFFIX,hxbt.alading123.com
   - DOMAIN-SUFFIX,hxcav77.com
+  - DOMAIN-SUFFIX,hxf1688.xyz
   - DOMAIN-SUFFIX,hxfree.vip
   - DOMAIN-SUFFIX,hxfu.nz53h.cn
   - DOMAIN-SUFFIX,hxgccl.cn
@@ -52326,6 +52336,7 @@ payload:
   - DOMAIN-SUFFIX,lijie1010.top
   - DOMAIN-SUFFIX,lijit.com
   - DOMAIN-SUFFIX,like.likewut.net
+  - DOMAIN-SUFFIX,likeads.com
   - DOMAIN-SUFFIX,likebtn.com
   - DOMAIN-SUFFIX,likecontrol.com
   - DOMAIN-SUFFIX,likefly.com.cn
@@ -53198,6 +53209,7 @@ payload:
   - DOMAIN-SUFFIX,log22.makeshop.co.kr
   - DOMAIN-SUFFIX,log3-normal-hl.toutiaoapi.com
   - DOMAIN-SUFFIX,log4x.nixcdn.com
+  - DOMAIN-SUFFIX,log57.top
   - DOMAIN-SUFFIX,log6.reader.qq.com
   - DOMAIN-SUFFIX,log999.goo.ne.jp
   - DOMAIN-SUFFIX,logaholic.com
@@ -55372,6 +55384,7 @@ payload:
   - DOMAIN-SUFFIX,materialisticmark.com
   - DOMAIN-SUFFIX,materialmoon.com
   - DOMAIN-SUFFIX,materiel.baizhan.net
+  - DOMAIN-SUFFIX,materiel.junshidao.com
   - DOMAIN-SUFFIX,mateti.net
   - DOMAIN-SUFFIX,mathads.com
   - DOMAIN-SUFFIX,mathafuda.pro
@@ -59170,6 +59183,7 @@ payload:
   - DOMAIN-SUFFIX,n18uji.xyz
   - DOMAIN-SUFFIX,n19.biz
   - DOMAIN-SUFFIX,n1internet.com
+  - DOMAIN-SUFFIX,n258.cc
   - DOMAIN-SUFFIX,n26-trusted.n26.com
   - DOMAIN-SUFFIX,n2s.co.kr
   - DOMAIN-SUFFIX,n339.aspcc.com
@@ -81034,6 +81048,7 @@ payload:
   - DOMAIN-SUFFIX,tsyndicate.com
   - DOMAIN-SUFFIX,tsyndicate.net
   - DOMAIN-SUFFIX,tsyndolls.com
+  - DOMAIN-SUFFIX,tszhongtianshiji.com
   - DOMAIN-SUFFIX,tsztzjvpex.com
   - DOMAIN-SUFFIX,tt.biquge.la
   - DOMAIN-SUFFIX,tt.douyaobuy.com
@@ -87273,6 +87288,7 @@ payload:
   - DOMAIN-SUFFIX,xinterface.cn
   - DOMAIN-SUFFIX,xinuocp666.com
   - DOMAIN-SUFFIX,xinxbh.cn
+  - DOMAIN-SUFFIX,xinyansaas.com
   - DOMAIN-SUFFIX,xinyijiasc.cn
   - DOMAIN-SUFFIX,xinyikeji.red
   - DOMAIN-SUFFIX,xinyuanstudio.com
@@ -89447,6 +89463,7 @@ payload:
   - DOMAIN-SUFFIX,zhululm.com
   - DOMAIN-SUFFIX,zhunishunli.com
   - DOMAIN-SUFFIX,zhuoyuanxcl.cn
+  - DOMAIN-SUFFIX,zhuozhongfangshui.cn
   - DOMAIN-SUFFIX,zhuren.site
   - DOMAIN-SUFFIX,zhushicm.com
   - DOMAIN-SUFFIX,zhuwawa.net
@@ -89873,6 +89890,7 @@ payload:
   - DOMAIN-SUFFIX,zxgroymagqu.com
   - DOMAIN-SUFFIX,zxhrq.cn
   - DOMAIN-SUFFIX,zxhymh.com
+  - DOMAIN-SUFFIX,zxiao.xyz
   - DOMAIN-SUFFIX,zxin131.cn
   - DOMAIN-SUFFIX,zxjjzx.com
   - DOMAIN-SUFFIX,zxlmnet.com
