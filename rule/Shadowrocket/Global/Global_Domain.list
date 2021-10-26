@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-23 02:11:10
+# UPDATED: 2021-10-27 02:09:26
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 33945
+# DOMAIN-SUFFIX: 33948
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # URL-REGEX: 1
-# TOTAL: 34183
+# TOTAL: 34186
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -14668,6 +14668,7 @@ widgets.stripst.com
 .image01.fenhao24.com
 .image1.fmgstatic.com
 .imageab.com
+.imagebam.com
 .imagecurl.com
 .imagecurl.org
 .imagefap.com
@@ -14681,6 +14682,7 @@ widgets.stripst.com
 .imageshack.com
 .imageshack.us
 .imagespost.com
+.imagetwist.com
 .imagevenue.com
 .imageworks.com
 .imagezilla.net
@@ -21538,6 +21540,7 @@ widgets.stripst.com
 .psiphontoday.com
 .psrcorp.net
 .pstatic.net
+.pstorage.space
 .psybnc.org
 .psyccareers.com
 .pt.im

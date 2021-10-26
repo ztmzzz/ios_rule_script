@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-24 02:08:18
+# UPDATED: 2021-10-27 02:09:24
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 34194
+# DOMAIN-SUFFIX: 34197
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34333
+# TOTAL: 34336
 payload:
   - DOMAIN,api-p.videomarket.jp
   - DOMAIN,apip.videomarket.jp
@@ -14729,6 +14729,7 @@ payload:
   - DOMAIN-SUFFIX,image01.fenhao24.com
   - DOMAIN-SUFFIX,image1.fmgstatic.com
   - DOMAIN-SUFFIX,imageab.com
+  - DOMAIN-SUFFIX,imagebam.com
   - DOMAIN-SUFFIX,imagecurl.com
   - DOMAIN-SUFFIX,imagecurl.org
   - DOMAIN-SUFFIX,imagefap.com
@@ -14743,6 +14744,7 @@ payload:
   - DOMAIN-SUFFIX,imageshack.com
   - DOMAIN-SUFFIX,imageshack.us
   - DOMAIN-SUFFIX,imagespost.com
+  - DOMAIN-SUFFIX,imagetwist.com
   - DOMAIN-SUFFIX,imagevenue.com
   - DOMAIN-SUFFIX,imageworks.com
   - DOMAIN-SUFFIX,imagezilla.net
@@ -21720,6 +21722,7 @@ payload:
   - DOMAIN-SUFFIX,psiphontoday.com
   - DOMAIN-SUFFIX,psrcorp.net
   - DOMAIN-SUFFIX,pstatic.net
+  - DOMAIN-SUFFIX,pstorage.space
   - DOMAIN-SUFFIX,psybnc.org
   - DOMAIN-SUFFIX,psyccareers.com
   - DOMAIN-SUFFIX,pt.im
