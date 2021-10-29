@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-27 02:09:22
+# UPDATED: 2021-10-30 02:10:22
 # HOST: 19
-# HOST-SUFFIX: 34197
+# HOST-SUFFIX: 34198
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 34347
+# TOTAL: 34348
 HOST,api-p.videomarket.jp,Proxy
 HOST,apip.videomarket.jp,Proxy
 HOST,blizzard.nefficient.co.kr,Proxy
@@ -20547,6 +20547,7 @@ HOST-SUFFIX,otto.de,Proxy
 HOST-SUFFIX,ottof.xyz,Proxy
 HOST-SUFFIX,ottofaster.xyz,Proxy
 HOST-SUFFIX,otzo.com,Proxy
+HOST-SUFFIX,ouo.io,Proxy
 HOST-SUFFIX,ouplaw.com,Proxy
 HOST-SUFFIX,ourdearamy.com,Proxy
 HOST-SUFFIX,ourfr.com,Proxy

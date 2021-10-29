@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-27 02:09:23
+# UPDATED: 2021-10-30 02:10:23
 # HOST: 19
-# HOST-SUFFIX: 33948
+# HOST-SUFFIX: 33949
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 129
 # IP6-CIDR: 4
-# TOTAL: 34189
+# TOTAL: 34190
 HOST,api-p.videomarket.jp,Global
 HOST,apip.videomarket.jp,Global
 HOST,blizzard.nefficient.co.kr,Global
@@ -20385,6 +20385,7 @@ HOST-SUFFIX,otto.de,Global
 HOST-SUFFIX,ottof.xyz,Global
 HOST-SUFFIX,ottofaster.xyz,Global
 HOST-SUFFIX,otzo.com,Global
+HOST-SUFFIX,ouo.io,Global
 HOST-SUFFIX,ouplaw.com,Global
 HOST-SUFFIX,ourdearamy.com,Global
 HOST-SUFFIX,ourfr.com,Global
