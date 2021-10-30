@@ -1,9 +1,9 @@
 # NAME: ChinaIPs
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-30 02:10:25
-# IP-CIDR: 6121
-# TOTAL: 6121
+# UPDATED: 2021-10-31 02:09:04
+# IP-CIDR: 6122
+# TOTAL: 6122
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -1262,6 +1262,7 @@ IP-CIDR,103.28.184.0/22,no-resolve
 IP-CIDR,103.28.204.0/22,no-resolve
 IP-CIDR,103.28.212.0/22,no-resolve
 IP-CIDR,103.28.4.0/22,no-resolve
+IP-CIDR,103.28.54.0/24,no-resolve
 IP-CIDR,103.28.8.0/22,no-resolve
 IP-CIDR,103.29.128.0/21,no-resolve
 IP-CIDR,103.29.136.0/22,no-resolve
