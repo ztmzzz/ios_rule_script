@@ -139,8 +139,8 @@
       "keys": ["zhihu_blocked_users", "zhihu_current_userinfo", "zhihu_keyword_block"],
       "author": "@blackmatrix7",
       "repo": "https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu",
-      "icons": ["https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.png", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.png"],
-      "descs_html": ["<h4 align=\"left\">具体功能说明查看<a href=\"https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu#readme\">README.md</a></h4>", "<h4 align=\"left\">✨为Plus版本专属功能，❓为已过时或即将淘汰功能</h4>", "<h4 align=\"left\">切换Lite、Plus版本，或出现异常请执行数据清理</h4>"],
+      "icons": ["https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.png"],
+      "descs_html": ["<h4 align=\"left\">具体功能说明查看<a href=\"https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu#readme\">README.md</a></h4>"],
       "scripts": [
         {
           "name": "知乎助手数据清理",
